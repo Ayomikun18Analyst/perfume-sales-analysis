@@ -1,0 +1,1201 @@
+Order ID,Order Date, Product Name,Fragrance Type,Gender,Size (ml),Unit Cost (?),Selling Price (?),Quantity,Discount %,Revenue (?),Total Cost (?),Profit (?),Location,Customer Type, Sales Channel,Payment Method,Returned,Rating
+ORD10762,2026-01-01 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,2,0,27000,13000,14000,Ogun,Returning,Instagram,USSD,No,4.5
+ORD10467,2026-01-01 00:00:00,Royal Musk,Musk,Men,50,9000,18000,2,0.05,34200,18000,16200,Ogun,Returning,WhatsApp,Transfer,No,5
+ORD10574,2026-01-01 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0.05,15675,8500,7175,Ogun,New,Physical Store,Transfer,No,4
+ORD10441,2026-01-01 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0,22000,12000,10000,Abuja,Returning,WhatsApp,Card,No,4.5
+ORD10732,2026-01-02 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0.15,11475,6500,4975,Kaduna,Returning,WhatsApp,Transfer,No,4.5
+ORD10726,2026-01-02 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0.05,13300,7000,6300,Kaduna,Returning,Instagram,Card,No,4.5
+ORD10804,2026-01-02 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0,23000,11500,11500,Kano,New,Physical Store,Card,No,5
+ORD10546,2026-01-03 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0,23000,11500,11500,Lagos,Returning,Instagram,Transfer,No,5
+ORD10586,2026-01-03 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,2,0,40000,21000,19000,Ogun,Returning,WhatsApp,Cash,No,4
+ORD10727,2026-01-04 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0.05,13300,7000,6300,Enugu,Returning,Instagram,USSD,No,4
+ORD10304,2026-01-05 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0,22000,12000,10000,Kano,New,Instagram,Cash,No,5
+ORD10970,2026-01-06 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,2,0.05,36100,20000,16100,Oyo,New,Instagram,Transfer,Yes,4
+ORD10630,2026-01-06 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,4,0.05,57000,30000,27000,Lagos,Returning,Website,Cash,No,4.5
+ORD10464,2026-01-06 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,4,0.1,59400,34000,25400,Kano,Returning,Physical Store,Transfer,No,4
+ORD11052,2026-01-07 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0.05,21850,11500,10350,Kaduna,New,Instagram,Cash,Yes,4.5
+ORD10426,2026-01-07 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,2,0,40000,21000,19000,Ogun,New,Jumia,Transfer,No,4
+ORD10573,2026-01-07 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0.05,13300,7000,6300,Enugu,New,Jumia,Transfer,No,5
+ORD10241,2026-01-07 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0.05,31350,17000,14350,Lagos,Returning,WhatsApp,Transfer,No,4
+ORD10351,2026-01-08 00:00:00,Leather Noir,Woody,Men,50,11500,23000,2,0.05,43700,23000,20700,Lagos,New,Jumia,Card,No,3.5
+ORD11122,2026-01-08 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0,19000,10000,9000,Abuja,New,Website,USSD,No,4.5
+ORD10847,2026-01-08 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0.1,16200,9000,7200,Lagos,New,WhatsApp,Transfer,No,4.5
+ORD10020,2026-01-09 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,5,0.15,59500,35000,24500,Lagos,Returning,Physical Store,USSD,No,5
+ORD10980,2026-01-09 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,5,0,82500,42500,40000,Oyo,Returning,Instagram,USSD,No,3.5
+ORD10458,2026-01-09 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0.1,16200,9000,7200,Lagos,New,Jumia,Transfer,No,4
+ORD10774,2026-01-09 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0,20000,10500,9500,Lagos,New,Instagram,Card,No,3
+ORD10619,2026-01-09 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0.05,21850,11500,10350,Lagos,New,Website,Transfer,No,3.5
+ORD10479,2026-01-09 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0.1,13500,7500,6000,Lagos,New,Instagram,Cash,No,4.5
+ORD11172,2026-01-09 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0.05,26600,14000,12600,Kano,New,Physical Store,Transfer,No,4
+ORD10561,2026-01-10 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0,13500,6500,7000,Lagos,New,Jumia,Transfer,No,5
+ORD10807,2026-01-10 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,3,0.1,56700,33000,23700,Oyo,New,WhatsApp,USSD,No,5
+ORD10975,2026-01-10 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0,20000,10500,9500,Ogun,New,Instagram,Card,No,4.5
+ORD10540,2026-01-10 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0.05,19000,10500,8500,Lagos,New,Website,Card,No,5
+ORD10932,2026-01-10 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0.1,19800,12000,7800,Enugu,Returning,Website,Card,No,3.5
+ORD10296,2026-01-10 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0,20000,10500,9500,Ogun,New,Jumia,Card,No,4
+ORD10923,2026-01-10 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,5,0.1,63000,35000,28000,Kaduna,Returning,Instagram,Cash,No,4.5
+ORD11104,2026-01-10 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,4,0.05,62700,34000,28700,Rivers,Returning,Website,Transfer,No,4
+ORD10522,2026-01-10 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,3,0.05,54150,30000,24150,Abuja,Returning,Website,Cash,No,4
+ORD11070,2026-01-10 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0,42000,22000,20000,Kano,New,Physical Store,Card,No,4.5
+ORD10125,2026-01-12 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0,15000,7500,7500,Oyo,New,Website,Transfer,No,4.5
+ORD10411,2026-01-12 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0.15,15300,9000,6300,Abuja,New,Instagram,Transfer,No,4.5
+ORD10101,2026-01-12 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,3,0.15,35700,21000,14700,Oyo,Returning,Physical Store,Cash,No,4.5
+ORD10144,2026-01-12 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0,19000,10000,9000,Lagos,Returning,Jumia,Transfer,No,4.5
+ORD10253,2026-01-13 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,3,0,45000,22500,22500,Edo,New,Physical Store,Cash,No,4.5
+ORD10603,2026-01-13 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,2,0,40000,21000,19000,Lagos,Returning,Instagram,Card,No,4
+ORD10890,2026-01-14 00:00:00,Vanilla Mist,floral,Women,30,6500,13500,1,0.1,12150,6500,5650,Enugu,New,WhatsApp,Cash,No,5
+ORD10347,2026-01-14 00:00:00,Leather Noir,Woody,Men,50,11500,23000,5,0.05,109250,57500,51750,Lagos,New,Website,Cash,No,4.5
+ORD10976,2026-01-14 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0,21000,11000,10000,Lagos,New,Physical Store,Transfer,No,4.5
+ORD10004,2026-01-14 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,2,0,30000,15000,15000,Kaduna,New,Instagram,Cash,No,5
+ORD11011,2026-01-14 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,3,0.1,36450,19500,16950,Abuja,New,Website,Card,No,4.5
+ORD10456,2026-01-15 00:00:00,Royal Musk,Musk,Men,50,9000,18000,3,0.05,51300,27000,24300,Abuja,Returning,WhatsApp,Transfer,No,3
+ORD10105,2026-01-15 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0,44000,24000,20000,Kaduna,New,Website,Cash,No,3.5
+ORD10462,2026-01-15 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0,21000,11000,10000,Kano,Returning,Physical Store,Transfer,No,5
+ORD11067,2026-01-16 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0.05,41800,24000,17800,Abuja,New,Jumia,Card,No,4
+ORD10483,2026-01-16 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,3,0,66000,36000,30000,Lagos,Returning,Instagram,Card,No,4.5
+ORD11156,2026-01-16 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,3,0.1,54000,31500,22500,Lagos,New,Website,Cash,No,4.5
+ORD11030,2026-01-16 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0,15000,7500,7500,Rivers,Returning,Physical Store,Transfer,No,4
+ORD11087,2026-01-16 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0,13500,6500,7000,Edo,New,Jumia,Card,No,4
+ORD10892,2026-01-16 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,2,0,38000,20000,18000,Abuja,New,Instagram,Card,No,4
+ORD10547,2026-01-17 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0.05,39900,22000,17900,Lagos,Returning,Physical Store,Transfer,No,4
+ORD11090,2026-01-17 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,2,0.1,36000,21000,15000,Ogun,Returning,Instagram,Transfer,No,3.5
+ORD10851,2026-01-18 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0.05,20900,12000,8900,Lagos,New,Jumia,Cash,Yes,3.5
+ORD10318,2026-01-18 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,2,0.05,28500,15000,13500,Enugu,New,WhatsApp,Transfer,No,5
+ORD10510,2026-01-18 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0,14000,7000,7000,Lagos,New,Physical Store,Transfer,No,4.5
+ORD10688,2026-01-19 00:00:00,Royal Musk,Musk,Men,50,9000,18000,5,0.05,85500,45000,40500,Kaduna,New,Instagram,Cash,No,4
+ORD10760,2026-01-19 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,4,0,60000,30000,30000,Edo,Returning,Physical Store,Transfer,No,3
+ORD10691,2026-01-20 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0.05,19950,11000,8950,Abuja,New,Jumia,Cash,No,5
+ORD11157,2026-01-20 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,3,0.05,62700,36000,26700,Lagos,Returning,WhatsApp,Transfer,No,5
+ORD10602,2026-01-20 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,4,0.05,62700,34000,28700,Ogun,New,Physical Store,Card,No,3
+ORD10945,2026-01-20 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,2,0,38000,20000,18000,Kano,New,WhatsApp,Transfer,No,4
+ORD10901,2026-01-20 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0.05,20900,12000,8900,Lagos,Returning,Website,Cash,No,3.5
+ORD10907,2026-01-20 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0,22000,12000,10000,Ogun,New,Website,Cash,No,4.5
+ORD10782,2026-01-21 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0,14000,7000,7000,Oyo,New,Instagram,Card,No,4.5
+ORD10618,2026-01-21 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0.05,17100,9000,8100,Kano,Returning,Website,Card,No,4.5
+ORD10179,2026-01-21 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0,18000,9000,9000,Edo,New,Instagram,Card,No,4.5
+ORD10793,2026-01-21 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0.1,37800,22000,15800,Delta,New,Instagram,Transfer,No,4.5
+ORD10576,2026-01-21 00:00:00,Leather Noir,Woody,Men,50,11500,23000,3,0,69000,34500,34500,Lagos,New,Instagram,Transfer,No,4.5
+ORD10744,2026-01-21 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0,16500,8500,8000,Rivers,Returning,WhatsApp,Transfer,No,5
+ORD10153,2026-01-21 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0,14000,7000,7000,Lagos,New,Website,USSD,No,4.5
+ORD10133,2026-01-22 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0.1,18000,10500,7500,Ogun,Returning,Website,Cash,No,5
+ORD10261,2026-01-22 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0,44000,24000,20000,Oyo,New,Jumia,Cash,No,5
+ORD10061,2026-01-22 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0.1,14850,8500,6350,Lagos,New,WhatsApp,Transfer,No,4
+ORD10023,2026-01-22 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0.05,39900,22000,17900,Lagos,Returning,WhatsApp,USSD,No,4.5
+ORD10709,2026-01-23 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0.1,18900,11000,7900,Rivers,New,WhatsApp,Transfer,No,3
+ORD10265,2026-01-23 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0.05,12825,6500,6325,Lagos,Returning,Instagram,Transfer,No,3
+ORD10647,2026-01-23 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0.05,19950,11000,8950,Delta,New,Website,Transfer,No,3.5
+ORD10054,2026-01-23 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,3,0.1,59400,36000,23400,Kaduna,Returning,Physical Store,Transfer,Yes,5
+ORD11145,2026-01-24 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0,33000,17000,16000,Enugu,Returning,Instagram,Cash,No,4
+ORD10651,2026-01-24 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0,14000,7000,7000,Abuja,New,Website,USSD,Yes,3.5
+ORD10480,2026-01-24 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,3,0,42000,21000,21000,Oyo,New,WhatsApp,Transfer,No,4
+ORD10777,2026-01-24 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,2,0.05,28500,15000,13500,Oyo,New,Physical Store,Transfer,No,4.5
+ORD11012,2026-01-24 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0.1,14850,8500,6350,Ogun,New,Website,Cash,No,4
+ORD10706,2026-01-25 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,3,0,63000,33000,30000,Kaduna,New,Website,Transfer,No,4.5
+ORD10454,2026-01-25 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0,44000,24000,20000,Kano,Returning,Website,Transfer,No,5
+ORD10568,2026-01-25 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0,18000,9000,9000,Kano,Returning,Instagram,Card,No,3.5
+ORD10171,2026-01-25 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,4,0.05,57000,30000,27000,Rivers,New,WhatsApp,Card,No,5
+ORD10386,2026-01-26 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0.1,20700,11500,9200,Delta,New,Instagram,Card,No,4.5
+ORD10147,2026-01-26 00:00:00,Royal Musk,Musk,Men,50,9000,18000,5,0,90000,45000,45000,Enugu,New,Instagram,USSD,No,4
+ORD10210,2026-01-26 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,3,0,45000,22500,22500,Oyo,New,Instagram,Transfer,No,5
+ORD10718,2026-01-26 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,2,0,40000,21000,19000,Enugu,New,WhatsApp,Card,No,4.5
+ORD10498,2026-01-26 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,2,0.05,36100,20000,16100,Lagos,New,Instagram,Card,No,4
+ORD11032,2026-01-26 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,3,0.05,47025,25500,21525,Enugu,New,Instagram,Card,Yes,4.5
+ORD10229,2026-01-28 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0.1,20700,11500,9200,Lagos,Returning,Jumia,Transfer,No,4.5
+ORD11019,2026-01-28 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0,13500,6500,7000,Abuja,New,Instagram,USSD,No,4.5
+ORD10571,2026-01-28 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,4,0,54000,26000,28000,Lagos,New,Physical Store,Transfer,No,5
+ORD10356,2026-01-28 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,2,0,38000,20000,18000,Abuja,Returning,Instagram,Transfer,No,5
+ORD10676,2026-01-28 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0.1,19800,12000,7800,Rivers,Returning,Physical Store,USSD,No,3.5
+ORD10679,2026-01-28 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0.1,20700,11500,9200,Kaduna,New,Website,Cash,No,3.5
+ORD11000,2026-01-28 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,5,0.1,90000,52500,37500,Oyo,Returning,Instagram,Cash,No,5
+ORD10567,2026-01-29 00:00:00,Leather Noir,Woody,Men,50,11500,23000,2,0,46000,23000,23000,Kano,Returning,Website,Cash,Yes,5
+ORD10598,2026-01-29 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0.15,11900,7000,4900,Lagos,Returning,Website,Transfer,No,4
+ORD10797,2026-01-29 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0,16500,8500,8000,Edo,Returning,Instagram,Card,No,4.5
+ORD10607,2026-01-29 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0,21000,11000,10000,Kano,New,Website,Cash,No,3.5
+ORD10420,2026-01-29 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0,14000,7000,7000,Kano,New,Physical Store,Card,No,4.5
+ORD10271,2026-01-29 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0,44000,24000,20000,Ogun,Returning,Website,Cash,No,4
+ORD10244,2026-01-30 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0,21000,11000,10000,Lagos,Returning,WhatsApp,Transfer,No,4.5
+ORD10294,2026-01-30 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,2,0.05,36100,20000,16100,Abuja,Returning,Physical Store,Transfer,No,4
+ORD10864,2026-01-30 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0,22000,12000,10000,Lagos,New,WhatsApp,Cash,No,4.5
+ORD10929,2026-01-30 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0.05,14250,7500,6750,Abuja,New,Instagram,Cash,No,4
+ORD10403,2026-01-30 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0,18000,9000,9000,Abuja,Returning,Instagram,Card,No,4
+ORD10190,2026-01-30 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0.05,31350,17000,14350,Enugu,Returning,Physical Store,Transfer,No,4.5
+ORD11162,2026-01-30 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,4,0.05,83600,48000,35600,Lagos,New,Physical Store,Card,No,4.5
+ORD10172,2026-01-31 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0.05,18050,10000,8050,Ogun,New,Instagram,Card,No,4.5
+ORD11084,2026-01-31 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,3,0,63000,33000,30000,Abuja,New,Physical Store,Card,Yes,5
+ORD10805,2026-01-31 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0.05,15675,8500,7175,Lagos,Returning,Instagram,Transfer,No,4.5
+ORD10741,2026-01-31 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,3,0.1,36450,19500,16950,Lagos,Returning,WhatsApp,Card,No,4.5
+ORD10750,2026-01-31 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,2,0,30000,15000,15000,Ogun,New,WhatsApp,Card,No,4
+ORD10946,2026-02-01 00:00:00,Oud Royale,Fresh,Men,50,8500,16500,1,0.05,15675,8500,7175,Abuja,Returning,Physical Store,Transfer,No,5
+ORD11097,2026-02-01 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,3,0,45000,22500,22500,Edo,New,Website,USSD,No,5
+ORD10431,2026-02-01 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0,22000,12000,10000,Delta,New,WhatsApp,Transfer,No,4.5
+ORD10214,2026-02-01 00:00:00,Royal Musk,Musk,Men,50,9000,18000,3,0,54000,27000,27000,Lagos,Returning,WhatsApp,USSD,No,5
+ORD10009,2026-02-02 00:00:00,Leather Noir,Woody,Men,50,11500,23000,2,0.1,41400,23000,18400,Lagos,New,WhatsApp,Cash,No,4.5
+ORD10885,2026-02-02 00:00:00,Royal Musk,Musk,Men,50,9000,18000,2,0,36000,18000,18000,Kano,Returning,WhatsApp,Card,No,4.5
+ORD10106,2026-02-03 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0.1,12150,6500,5650,Lagos,Returning,Website,USSD,No,4.5
+ORD11148,2026-02-03 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0.1,18900,11000,7900,Edo,Returning,Website,Cash,No,3.5
+ORD10633,2026-02-03 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0.05,15675,8500,7175,Ogun,Returning,WhatsApp,Card,No,3
+ORD10055,2026-02-03 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0.15,11475,6500,4975,Abuja,New,Website,Card,No,4
+ORD10845,2026-02-04 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0,21000,11000,10000,Ogun,New,Instagram,Cash,No,4
+ORD10256,2026-02-04 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,4,0.1,79200,48000,31200,Rivers,New,WhatsApp,Transfer,No,5
+ORD10826,2026-02-04 00:00:00,Leather Noir,Woody,Men,50,11500,23000,2,0.1,41400,23000,18400,Abuja,New,Website,USSD,No,4
+ORD10504,2026-02-04 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0.05,20900,12000,8900,Abuja,New,Physical Store,Transfer,No,4.5
+ORD11130,2026-02-05 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,3,0.05,62700,36000,26700,Delta,Returning,Instagram,USSD,No,4
+ORD10950,2026-02-05 00:00:00,Royal Musk,Musk,Men,50,9000,18000,3,0,54000,27000,27000,Kano,New,Physical Store,USSD,Yes,3.5
+ORD10164,2026-02-05 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0,33000,17000,16000,Edo,Returning,Physical Store,Transfer,No,4.5
+ORD10135,2026-02-06 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0,21000,11000,10000,Edo,Returning,Website,Transfer,No,4.5
+ORD10614,2026-02-06 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0.05,41800,24000,17800,Kano,Returning,Jumia,Transfer,No,3
+ORD11080,2026-02-06 00:00:00,Leather Noir,Woody,Men,50,11500,23000,2,0,46000,23000,23000,Abuja,New,Website,Card,No,4.5
+ORD10452,2026-02-07 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0,13500,6500,7000,Lagos,New,Instagram,Transfer,No,4
+ORD10404,2026-02-07 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,3,0.1,37800,21000,16800,Lagos,Returning,Physical Store,Cash,No,4
+ORD10360,2026-02-07 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0,15000,7500,7500,Enugu,New,Physical Store,Transfer,No,4.5
+ORD10183,2026-02-07 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0.05,18050,10000,8050,Lagos,New,Jumia,Cash,No,4
+ORD10557,2026-02-07 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0,22000,12000,10000,Abuja,Returning,Jumia,Card,No,4
+ORD10046,2026-02-08 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,3,0.05,62700,36000,26700,Ogun,New,WhatsApp,Card,No,5
+ORD10558,2026-02-08 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,2,0.1,24300,13000,11300,Edo,New,WhatsApp,USSD,No,4
+ORD10766,2026-02-08 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,2,0.1,24300,13000,11300,Oyo,New,Website,USSD,No,5
+ORD10283,2026-02-08 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0.05,18050,10000,8050,Kaduna,Returning,Physical Store,USSD,No,4.5
+ORD10076,2026-02-08 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0.05,19950,11000,8950,Lagos,Returning,Website,Transfer,No,4
+ORD10695,2026-02-08 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0.05,19950,11000,8950,Abuja,New,Jumia,Card,No,4.5
+ORD10432,2026-02-08 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0.05,18050,10000,8050,Ogun,New,WhatsApp,Cash,No,5
+ORD10337,2026-02-09 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0.05,13300,7000,6300,Oyo,Returning,Physical Store,Cash,No,4.5
+ORD10383,2026-02-09 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0,21000,11000,10000,Edo,New,Instagram,Cash,No,4.5
+ORD10963,2026-02-09 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0,19000,10000,9000,Rivers,New,Instagram,Cash,No,4.5
+ORD10213,2026-02-09 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0.05,15675,8500,7175,Ogun,Returning,Instagram,Transfer,No,5
+ORD10677,2026-02-10 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0.15,35700,22000,13700,Oyo,New,Jumia,Transfer,No,3.5
+ORD11108,2026-02-10 00:00:00,Leather Noir,Woody,Men,50,11500,23000,3,0,69000,34500,34500,Abuja,New,Physical Store,Transfer,No,5
+ORD10139,2026-02-10 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0.05,39900,22000,17900,Lagos,Returning,WhatsApp,Card,No,4.5
+ORD10095,2026-02-10 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0,19000,10000,9000,Lagos,New,Website,Cash,No,3.5
+ORD10769,2026-02-10 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,3,0,60000,31500,28500,Rivers,New,Website,Cash,No,4.5
+ORD10240,2026-02-10 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0.1,18000,10500,7500,Ogun,New,Website,Transfer,No,5
+ORD10246,2026-02-11 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0.05,15675,8500,7175,Enugu,Returning,Instagram,Card,No,5
+ORD10906,2026-02-11 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0.1,25200,14000,11200,Enugu,New,Physical Store,Transfer,No,4.5
+ORD10481,2026-02-11 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0,19000,10000,9000,Lagos,Returning,Instagram,Transfer,Yes,5
+ORD10370,2026-02-11 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0.1,20700,11500,9200,Abuja,Returning,Instagram,Cash,No,4.5
+ORD10493,2026-02-11 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0,18000,9000,9000,Lagos,Returning,WhatsApp,Transfer,No,3.5
+ORD10671,2026-02-11 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0,42000,22000,20000,Kaduna,New,Physical Store,Card,No,4
+ORD10530,2026-02-11 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0,22000,12000,10000,Abuja,New,WhatsApp,Transfer,No,3
+ORD10410,2026-02-11 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,3,0,42000,21000,21000,Lagos,Returning,Instagram,Transfer,No,4
+ORD10597,2026-02-11 00:00:00,Leather Noir,Woody,Men,50,11500,23000,3,0.1,62100,34500,27600,Delta,New,Instagram,Cash,No,3
+ORD11023,2026-02-12 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0,21000,11000,10000,Kano,Returning,Website,Transfer,No,4.5
+ORD11008,2026-02-12 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,5,0,67500,32500,35000,Rivers,New,Instagram,Cash,No,4.5
+ORD10872,2026-02-12 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,2,0.05,36100,20000,16100,Lagos,Returning,WhatsApp,Card,No,3
+ORD10725,2026-02-12 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,5,0.1,67500,37500,30000,Lagos,New,Instagram,Card,No,5
+ORD10387,2026-02-13 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0.1,14850,8500,6350,Lagos,Returning,Jumia,Card,No,4
+ORD10501,2026-02-13 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,2,0.1,24300,13000,11300,Rivers,New,Jumia,Transfer,No,4
+ORD10486,2026-02-13 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0,16500,8500,8000,Edo,Returning,Physical Store,USSD,No,3
+ORD10848,2026-02-14 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0.05,26600,14000,12600,Rivers,New,Instagram,Cash,No,4.5
+ORD10648,2026-02-14 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0,22000,12000,10000,Oyo,New,Jumia,Cash,No,5
+ORD10844,2026-02-14 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,3,0.15,53550,33000,20550,Enugu,New,Physical Store,USSD,No,5
+ORD10332,2026-02-14 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,3,0.05,57000,31500,25500,Edo,New,Jumia,Transfer,Yes,4.5
+ORD10274,2026-02-14 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,2,0.05,28500,15000,13500,Abuja,New,Instagram,Transfer,No,4.5
+ORD11159,2026-02-14 00:00:00,Leather Noir,Woody,Men,50,11500,23000,2,0.15,39100,23000,16100,Ogun,Returning,Website,Transfer,No,4.5
+ORD10559,2026-02-15 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0.05,41800,24000,17800,Lagos,New,Physical Store,USSD,No,5
+ORD10889,2026-02-15 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,4,0,88000,48000,40000,Edo,New,Website,Transfer,No,4.5
+ORD10212,2026-02-16 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0.05,20900,12000,8900,Lagos,Returning,Website,Card,No,4
+ORD10305,2026-02-16 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0.05,13300,7000,6300,Abuja,Returning,Physical Store,Cash,No,3.5
+ORD10198,2026-02-16 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0,18000,9000,9000,Lagos,New,Physical Store,Transfer,No,4.5
+ORD10228,2026-02-16 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0,33000,17000,16000,Lagos,New,Instagram,Transfer,No,4.5
+ORD10249,2026-02-16 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0.05,14250,7500,6750,Enugu,New,Physical Store,Transfer,No,4
+ORD10724,2026-02-16 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,2,0.05,36100,20000,16100,Edo,New,Instagram,Transfer,No,5
+ORD10959,2026-02-16 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0,22000,12000,10000,Kano,New,WhatsApp,USSD,No,5
+ORD10894,2026-02-17 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0,13500,6500,7000,Rivers,Returning,Website,Card,No,3
+ORD10502,2026-02-17 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,3,0.05,39900,21000,18900,Oyo,New,Physical Store,Transfer,No,4.5
+ORD10331,2026-02-17 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0,15000,7500,7500,Lagos,New,WhatsApp,Transfer,No,5
+ORD10085,2026-02-18 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0.05,21850,11500,10350,Lagos,Returning,Instagram,Transfer,No,3
+ORD11035,2026-02-18 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0.15,12750,7500,5250,Abuja,Returning,WhatsApp,Card,No,5
+ORD10577,2026-02-18 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0.05,18050,10000,8050,Lagos,Returning,Website,USSD,No,4
+ORD10277,2026-02-18 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,3,0.05,54150,30000,24150,Edo,New,Physical Store,Transfer,No,4.5
+ORD10200,2026-02-18 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,4,0,56000,28000,28000,Ogun,Returning,Physical Store,Card,No,5
+ORD10859,2026-02-18 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,3,0.1,54000,31500,22500,Abuja,New,Website,Transfer,No,5
+ORD10280,2026-02-19 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,2,0.1,27000,15000,12000,Enugu,New,Jumia,Transfer,No,3.5
+ORD10189,2026-02-19 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,2,0,27000,13000,14000,Lagos,New,Physical Store,Cash,No,3.5
+ORD10617,2026-02-19 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0,13500,6500,7000,Lagos,New,Jumia,Transfer,No,5
+ORD10972,2026-02-19 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0,21000,11000,10000,Abuja,Returning,Instagram,USSD,No,4.5
+ORD10005,2026-02-19 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0.05,19950,11000,8950,Rivers,New,Website,Card,No,5
+ORD10593,2026-02-20 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0.05,14250,7500,6750,Lagos,New,Instagram,Card,No,4.5
+ORD10425,2026-02-20 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,5,0.05,71250,37500,33750,Delta,New,WhatsApp,Transfer,No,4
+ORD10154,2026-02-21 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,4,0,56000,28000,28000,Rivers,Returning,Website,Card,No,4
+ORD10641,2026-02-21 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0.05,31350,17000,14350,Kano,Returning,Jumia,Transfer,No,4.5
+ORD11106,2026-02-22 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0.05,14250,7500,6750,Oyo,New,WhatsApp,Cash,No,4.5
+ORD10016,2026-02-22 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0,21000,11000,10000,Ogun,Returning,Instagram,Cash,No,4.5
+ORD10828,2026-02-23 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,2,0,40000,21000,19000,Rivers,New,Website,Transfer,No,4.5
+ORD10026,2026-02-23 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0.05,18050,10000,8050,Kano,New,Instagram,Card,No,4
+ORD10419,2026-02-23 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0,22000,12000,10000,Enugu,Returning,Website,Cash,No,5
+ORD10886,2026-02-23 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0.15,17850,11000,6850,Lagos,New,WhatsApp,Card,No,3.5
+ORD10049,2026-02-23 00:00:00,Leather Noir,Woody,Men,50,11500,23000,2,0.05,43700,23000,20700,Oyo,Returning,Instagram,Transfer,No,4.5
+ORD10312,2026-02-23 00:00:00,Royal Musk,Musk,Men,50,9000,18000,2,0.05,34200,18000,16200,Abuja,Returning,Instagram,Cash,No,4.5
+ORD10767,2026-02-23 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,3,0.1,40500,22500,18000,Delta,Returning,Instagram,Transfer,No,3.5
+ORD10612,2026-02-24 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0,44000,24000,20000,Oyo,New,Physical Store,Transfer,No,4
+ORD11118,2026-02-24 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0,20000,10500,9500,Rivers,New,WhatsApp,USSD,No,3.5
+ORD10535,2026-02-24 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0,20000,10500,9500,Lagos,New,Physical Store,Card,No,4
+ORD10195,2026-02-24 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0.05,31350,17000,14350,Kano,New,WhatsApp,Card,No,4.5
+ORD10636,2026-02-25 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0,21000,11000,10000,Kaduna,Returning,Website,Transfer,No,3.5
+ORD10722,2026-02-25 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0,15000,7500,7500,Rivers,Returning,Instagram,USSD,No,4
+ORD10317,2026-02-25 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0,13500,6500,7000,Kaduna,New,Physical Store,Card,No,4.5
+ORD10482,2026-02-25 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0,14000,7000,7000,Abuja,New,Instagram,Cash,No,3.5
+ORD10443,2026-02-25 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0.05,20900,12000,8900,Abuja,New,WhatsApp,Transfer,No,3.5
+ORD10931,2026-02-25 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,2,0.05,36100,20000,16100,Abuja,New,Website,Transfer,No,3.5
+ORD10731,2026-02-25 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,2,0.1,27000,15000,12000,Enugu,Returning,Instagram,Transfer,No,5
+ORD10551,2026-02-26 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0.05,20900,12000,8900,Kano,New,WhatsApp,Card,No,4.5
+ORD11054,2026-02-26 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0.05,19000,10500,8500,Oyo,New,Physical Store,Cash,No,4
+ORD10631,2026-02-26 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0.05,17100,9000,8100,Lagos,New,Physical Store,USSD,No,4.5
+ORD10947,2026-02-26 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0.1,13500,7500,6000,Rivers,Returning,Instagram,Card,No,4
+ORD10122,2026-02-27 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0,22000,12000,10000,Lagos,New,WhatsApp,USSD,No,5
+ORD10585,2026-02-27 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0.1,39600,24000,15600,Lagos,Returning,Jumia,Transfer,No,5
+ORD10163,2026-02-27 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0.05,17100,9000,8100,Abuja,Returning,Jumia,Card,No,4
+ORD10957,2026-02-27 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,3,0,40500,19500,21000,Delta,New,Physical Store,Transfer,Yes,5
+ORD11191,2026-02-27 00:00:00,Royal Musk,Musk,Men,50,9000,18000,2,0.05,34200,18000,16200,Rivers,Returning,Jumia,Cash,No,4.5
+ORD11048,2026-02-28 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0,21000,11000,10000,Enugu,Returning,Instagram,Cash,No,5
+ORD10466,2026-02-28 00:00:00,Royal Musk,Musk,Men,50,9000,18000,2,0.1,32400,18000,14400,Kaduna,Returning,Website,Transfer,Yes,4
+ORD10746,2026-02-28 00:00:00,Royal Musk,Musk,Men,50,9000,18000,2,0,36000,18000,18000,Lagos,Returning,Instagram,Transfer,No,4
+ORD11072,2026-02-28 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,3,0.05,57000,31500,25500,Abuja,New,Jumia,Transfer,No,4
+ORD11146,2026-02-28 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0,33000,17000,16000,Oyo,Returning,WhatsApp,Transfer,No,5
+ORD10245,2026-02-28 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0.15,11475,6500,4975,Edo,New,WhatsApp,Transfer,No,3.5
+ORD10233,2026-02-28 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0.1,19800,12000,7800,Ogun,Returning,WhatsApp,Cash,No,5
+ORD10158,2026-03-01 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0.1,18900,11000,7900,Rivers,Returning,Physical Store,Transfer,No,5
+ORD11057,2026-03-01 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0.05,14250,7500,6750,Kano,Returning,Instagram,Card,No,3
+ORD10030,2026-03-01 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0.05,20900,12000,8900,Lagos,Returning,Instagram,Transfer,No,5
+ORD10321,2026-03-02 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0,14000,7000,7000,Abuja,Returning,Physical Store,Transfer,No,4.5
+ORD10806,2026-03-02 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0,28000,14000,14000,Kaduna,Returning,Instagram,Card,No,4
+ORD10853,2026-03-02 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,3,0,57000,30000,27000,Lagos,New,Jumia,Transfer,No,3.5
+ORD10529,2026-03-03 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0.1,12600,7000,5600,Ogun,Returning,Jumia,Transfer,No,4
+ORD10856,2026-03-03 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0,42000,22000,20000,Kaduna,Returning,Instagram,Card,No,4
+ORD10915,2026-03-03 00:00:00,Leather Noir,Woody,Men,50,11500,23000,2,0.05,43700,23000,20700,Abuja,Returning,Website,Transfer,No,4
+ORD10029,2026-03-04 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0.05,19950,11000,8950,Edo,Returning,Physical Store,Transfer,No,4.5
+ORD10336,2026-03-05 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0,18000,9000,9000,Kaduna,Returning,Website,Cash,No,4
+ORD10269,2026-03-06 00:00:00,Royal Musk,Musk,Men,50,9000,18000,2,0,36000,18000,18000,Delta,New,WhatsApp,Transfer,No,4
+ORD10815,2026-03-07 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,3,0,66000,36000,30000,Kano,New,Instagram,Card,No,4
+ORD10219,2026-03-07 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,5,0.05,64125,32500,31625,Abuja,New,Physical Store,Transfer,No,4.5
+ORD10700,2026-03-07 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0.1,37800,22000,15800,Ogun,Returning,WhatsApp,Transfer,No,3
+ORD10140,2026-03-07 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0,42000,22000,20000,Enugu,New,Website,Card,No,5
+ORD10243,2026-03-08 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,2,0.05,28500,15000,13500,Edo,New,Instagram,Transfer,No,4
+ORD10878,2026-03-08 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0,14000,7000,7000,Delta,Returning,Physical Store,Transfer,No,4.5
+ORD11114,2026-03-08 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,3,0,45000,22500,22500,Rivers,New,Jumia,Card,No,3.5
+ORD11063,2026-03-09 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0,19000,10000,9000,Rivers,New,Instagram,USSD,No,4.5
+ORD10311,2026-03-09 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,3,0.05,62700,36000,26700,Delta,New,Jumia,Transfer,No,3.5
+ORD10209,2026-03-09 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,3,0,66000,36000,30000,Kano,New,Instagram,USSD,No,4
+ORD10161,2026-03-09 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0,42000,22000,20000,Kano,New,WhatsApp,Transfer,No,5
+ORD10720,2026-03-09 00:00:00,Leather Noir,Woody,Men,50,11500,23000,2,0,46000,23000,23000,Abuja,Returning,Physical Store,Transfer,No,4
+ORD10899,2026-03-09 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0.1,14850,8500,6350,Lagos,New,Instagram,Transfer,No,4.5
+ORD10572,2026-03-09 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,2,0,30000,15000,15000,Ogun,New,Jumia,Transfer,No,4.5
+ORD10148,2026-03-10 00:00:00,Royal Musk,Musk,Men,50,9000,18000,2,0,36000,18000,18000,Oyo,New,Instagram,Card,No,4
+ORD10033,2026-03-10 00:00:00,Royal Musk,Musk,Men,50,9000,18000,2,0,36000,18000,18000,Rivers,New,Instagram,Transfer,Yes,4.5
+ORD10604,2026-03-10 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,2,0,40000,21000,19000,Ogun,Returning,Instagram,Card,No,3.5
+ORD11124,2026-03-10 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,2,0.1,24300,13000,11300,Delta,Returning,Instagram,Transfer,No,5
+ORD10933,2026-03-10 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,3,0.15,42075,25500,16575,Enugu,Returning,Jumia,Transfer,No,4.5
+ORD10193,2026-03-11 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,2,0.05,38000,21000,17000,Enugu,Returning,WhatsApp,Card,No,5
+ORD10379,2026-03-11 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0.05,21850,11500,10350,Delta,New,Physical Store,Card,No,4.5
+ORD11062,2026-03-12 00:00:00,Leather Noir,Woody,Men,50,11500,23000,4,0,92000,46000,46000,Delta,New,Website,Card,No,4
+ORD10328,2026-03-12 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0,16500,8500,8000,Lagos,Returning,Website,Cash,No,4.5
+ORD10877,2026-03-12 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,2,0,38000,20000,18000,Ogun,New,Instagram,Card,No,5
+ORD10592,2026-03-13 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,3,0.1,37800,21000,16800,Rivers,New,Instagram,Transfer,No,4.5
+ORD10363,2026-03-13 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,3,0,57000,30000,27000,Abuja,Returning,Instagram,USSD,No,5
+ORD10554,2026-03-13 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0.1,14850,8500,6350,Oyo,Returning,WhatsApp,Card,No,4.5
+ORD10981,2026-03-13 00:00:00,Leather Noir,Woody,Men,50,11500,23000,3,0,69000,34500,34500,Kaduna,New,Instagram,Card,No,5
+ORD10234,2026-03-13 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0,23000,11500,11500,Delta,Returning,Website,Transfer,No,4
+ORD10951,2026-03-13 00:00:00,Leather Noir,Woody,Men,50,11500,23000,4,0.05,87400,46000,41400,Lagos,New,WhatsApp,Card,No,4.5
+ORD10326,2026-03-13 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0,22000,12000,10000,Edo,New,Physical Store,USSD,No,5
+ORD10685,2026-03-13 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0.05,18050,10000,8050,Delta,New,Website,USSD,No,5
+ORD10711,2026-03-14 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0,33000,17000,16000,Delta,Returning,Instagram,Transfer,No,5
+ORD11071,2026-03-14 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0,18000,9000,9000,Lagos,New,Instagram,Transfer,No,4.5
+ORD10839,2026-03-15 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0,15000,7500,7500,Oyo,New,WhatsApp,Transfer,Yes,5
+ORD10491,2026-03-15 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0,42000,22000,20000,Kano,New,Instagram,Transfer,No,4
+ORD11069,2026-03-15 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0.15,11475,6500,4975,Enugu,New,WhatsApp,USSD,No,4
+ORD10813,2026-03-15 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,2,0,38000,20000,18000,Lagos,New,Website,Cash,No,5
+ORD10218,2026-03-16 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0,44000,24000,20000,Rivers,Returning,WhatsApp,Cash,No,4.5
+ORD11138,2026-03-16 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,4,0.1,72000,42000,30000,Abuja,Returning,Jumia,Transfer,No,4.5
+ORD10465,2026-03-16 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,2,0.05,25650,13000,12650,Enugu,New,Jumia,Transfer,No,4
+ORD10208,2026-03-17 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0.1,17100,10000,7100,Lagos,New,Physical Store,Card,No,4.5
+ORD10719,2026-03-17 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0.05,15675,8500,7175,Abuja,Returning,WhatsApp,Transfer,No,5
+ORD10524,2026-03-17 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0,33000,17000,16000,Lagos,New,WhatsApp,Card,No,4
+ORD11025,2026-03-18 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,5,0,82500,42500,40000,Edo,Returning,Website,Transfer,No,4.5
+ORD10852,2026-03-18 00:00:00,Royal Musk,Musk,Men,50,9000,18000,2,0.1,32400,18000,14400,Lagos,New,WhatsApp,Transfer,No,4
+ORD10880,2026-03-18 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,3,0,40500,19500,21000,Abuja,New,Jumia,Cash,No,5
+ORD10405,2026-03-18 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0,20000,10500,9500,Edo,New,Jumia,USSD,No,4
+ORD10801,2026-03-18 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0,14000,7000,7000,Kano,New,Instagram,Cash,No,4
+ORD10439,2026-03-18 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0,19000,10000,9000,Edo,Returning,WhatsApp,Transfer,No,4
+ORD10184,2026-03-19 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,5,0.05,90250,50000,40250,Lagos,Returning,WhatsApp,USSD,No,4
+ORD11018,2026-03-19 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0.1,12600,7000,5600,Delta,Returning,Physical Store,Cash,No,4
+ORD10627,2026-03-19 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0,13500,6500,7000,Lagos,New,Instagram,Transfer,No,3
+ORD10531,2026-03-19 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0.05,39900,22000,17900,Lagos,New,Instagram,Cash,No,5
+ORD10300,2026-03-19 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,2,0,40000,21000,19000,Kano,Returning,WhatsApp,Transfer,No,5
+ORD10470,2026-03-20 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0,14000,7000,7000,Lagos,Returning,WhatsApp,Cash,No,4
+ORD10643,2026-03-20 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0,13500,6500,7000,Lagos,New,WhatsApp,USSD,No,4.5
+ORD10457,2026-03-20 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0.05,13300,7000,6300,Rivers,Returning,Jumia,USSD,No,4.5
+ORD10960,2026-03-20 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0,28000,14000,14000,Enugu,Returning,Instagram,Card,No,5
+ORD10471,2026-03-20 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0,21000,11000,10000,Abuja,New,Website,Card,No,5
+ORD10141,2026-03-21 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0,21000,11000,10000,Ogun,New,Physical Store,Card,No,4.5
+ORD10048,2026-03-21 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,3,0.15,53550,33000,20550,Ogun,Returning,Instagram,Card,No,4
+ORD10779,2026-03-21 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0.15,28050,17000,11050,Rivers,New,WhatsApp,Cash,No,4.5
+ORD10993,2026-03-21 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,3,0,45000,22500,22500,Kaduna,Returning,Website,Transfer,No,4.5
+ORD10910,2026-03-21 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0.1,17100,10000,7100,Ogun,New,Instagram,Card,No,5
+ORD10840,2026-03-21 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0,13500,6500,7000,Ogun,New,Physical Store,Card,No,3.5
+ORD10654,2026-03-22 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0.1,17100,10000,7100,Kano,Returning,Instagram,Transfer,No,3.5
+ORD10297,2026-03-22 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0.1,39600,24000,15600,Delta,Returning,Physical Store,Cash,No,4
+ORD10298,2026-03-22 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,4,0.05,51300,26000,25300,Lagos,New,Instagram,Transfer,No,5
+ORD10506,2026-03-22 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0.15,35700,22000,13700,Kano,New,WhatsApp,Card,No,5
+ORD10115,2026-03-22 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0,13500,6500,7000,Lagos,Returning,Website,USSD,No,3.5
+ORD10541,2026-03-23 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,4,0.05,79800,44000,35800,Enugu,Returning,Physical Store,Transfer,No,3.5
+ORD10488,2026-03-23 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0.05,15675,8500,7175,Delta,Returning,Website,Cash,No,5
+ORD10569,2026-03-23 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0.05,19950,11000,8950,Enugu,New,Physical Store,USSD,No,5
+ORD10954,2026-03-23 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0.15,11475,6500,4975,Edo,Returning,Website,USSD,No,4.5
+ORD10991,2026-03-24 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,4,0,76000,40000,36000,Oyo,New,Instagram,Card,No,4.5
+ORD10303,2026-03-24 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0.05,19000,10500,8500,Rivers,New,Instagram,Transfer,No,5
+ORD10843,2026-03-24 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0.15,11900,7000,4900,Kano,Returning,Physical Store,Card,No,5
+ORD11142,2026-03-24 00:00:00,Royal Musk,Musk,Men,50,9000,18000,3,0,54000,27000,27000,Kano,New,WhatsApp,Card,No,4
+ORD10717,2026-03-24 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0.1,29700,17000,12700,Lagos,Returning,Jumia,Transfer,No,3.5
+ORD10124,2026-03-25 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0.05,21850,11500,10350,Abuja,New,Jumia,Transfer,No,5
+ORD10560,2026-03-25 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,2,0,27000,13000,14000,Lagos,New,Physical Store,Cash,No,5
+ORD10512,2026-03-25 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,4,0,66000,34000,32000,Ogun,New,Website,Transfer,No,4
+ORD10236,2026-03-25 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0,22000,12000,10000,Delta,New,WhatsApp,Cash,No,3.5
+ORD10689,2026-03-26 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0,14000,7000,7000,Abuja,New,WhatsApp,Card,No,4
+ORD10397,2026-03-26 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0,22000,12000,10000,Enugu,Returning,Instagram,Transfer,No,
+ORD10091,2026-03-26 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0,21000,11000,10000,Lagos,New,Website,Card,No,4.5
+ORD10344,2026-03-27 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0,15000,7500,7500,Lagos,Returning,Website,Cash,No,4
+ORD10192,2026-03-27 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,3,0.05,57000,31500,25500,Enugu,Returning,Physical Store,Transfer,No,4
+ORD10012,2026-03-27 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0,42000,22000,20000,Delta,Returning,WhatsApp,Transfer,No,4
+ORD10206,2026-03-27 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0,16500,8500,8000,Oyo,New,Instagram,USSD,No,4
+ORD10205,2026-03-28 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,2,0.05,38000,21000,17000,Lagos,New,WhatsApp,USSD,Yes,3.5
+ORD10943,2026-03-28 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0.05,13300,7000,6300,Lagos,Returning,WhatsApp,Cash,Yes,5
+ORD11059,2026-03-28 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0.05,26600,14000,12600,Oyo,Returning,Website,Transfer,No,4
+ORD11149,2026-03-28 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0,42000,22000,20000,Lagos,New,Jumia,Transfer,No,4
+ORD11196,2026-03-28 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0.05,20900,12000,8900,Abuja,New,Instagram,Cash,No,4.5
+ORD10751,2026-03-28 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,3,0,66000,36000,30000,Kano,New,Physical Store,Cash,No,3.5
+ORD10780,2026-03-28 00:00:00,Royal Musk,Musk,Men,50,9000,18000,2,0,36000,18000,18000,Ogun,Returning,Instagram,Transfer,No,3.5
+ORD10181,2026-03-28 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0,33000,17000,16000,Rivers,New,Instagram,Cash,No,4
+ORD11049,2026-03-28 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0,42000,22000,20000,Abuja,Returning,WhatsApp,Transfer,Yes,4.5
+ORD10433,2026-03-28 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0,23000,11500,11500,Abuja,New,Website,Cash,No,4.5
+ORD11186,2026-03-28 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0.1,18000,10500,7500,Lagos,Returning,Instagram,Transfer,No,4.5
+ORD10734,2026-03-29 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0.15,37400,24000,13400,Edo,New,Website,Card,No,3.5
+ORD10748,2026-03-29 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,3,0,57000,30000,27000,Ogun,New,WhatsApp,USSD,No,4.5
+ORD10407,2026-03-29 00:00:00,Royal Musk,Musk,Men,50,9000,18000,2,0.05,34200,18000,16200,Enugu,New,Physical Store,Transfer,No,4
+ORD10516,2026-03-29 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,4,0,88000,48000,40000,Abuja,New,Physical Store,Cash,No,3.5
+ORD10884,2026-03-29 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0.05,19000,10500,8500,Abuja,New,Website,Transfer,Yes,4.5
+ORD10756,2026-03-30 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,3,0,42000,21000,21000,Lagos,New,Physical Store,Cash,No,4
+ORD10900,2026-03-30 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0.05,19000,10500,8500,Rivers,Returning,Physical Store,Card,No,5
+ORD10460,2026-03-30 00:00:00,Royal Musk,Musk,Men,50,9000,18000,4,0,72000,36000,36000,Lagos,New,Instagram,Transfer,No,5
+ORD10038,2026-03-31 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0,22000,12000,10000,Abuja,Returning,Instagram,Cash,No,4.5
+ORD10232,2026-03-31 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0,22000,12000,10000,Ogun,New,Instagram,Transfer,No,3.5
+ORD10973,2026-03-31 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,4,0,88000,48000,40000,Lagos,New,Website,Transfer,No,4
+ORD10525,2026-03-31 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,4,0.1,79200,48000,31200,Oyo,Returning,WhatsApp,Cash,No,4.5
+ORD10350,2026-03-31 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0.05,12825,6500,6325,Abuja,New,Website,Transfer,No,4.5
+ORD10275,2026-03-31 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0.05,26600,14000,12600,Edo,New,Website,Card,No,3.5
+ORD10672,2026-04-01 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,3,0,63000,33000,30000,Abuja,New,Physical Store,USSD,No,4.5
+ORD11198,2026-04-01 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,3,0,57000,30000,27000,Lagos,Returning,Jumia,Cash,No,4.5
+ORD10714,2026-04-02 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,4,0.1,48600,26000,22600,Lagos,Returning,WhatsApp,Cash,No,4.5
+ORD10556,2026-04-02 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0.05,41800,24000,17800,Enugu,Returning,Website,Transfer,No,4.5
+ORD10582,2026-04-02 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,3,0.15,35700,21000,14700,Lagos,New,Physical Store,Card,No,4
+ORD10999,2026-04-02 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0.05,21850,11500,10350,Ogun,New,Physical Store,Cash,No,4.5
+ORD10565,2026-04-03 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0.05,41800,24000,17800,Oyo,New,Physical Store,Card,No,4.5
+ORD11184,2026-04-03 00:00:00,Leather Noir,Woody,Men,50,11500,23000,3,0,69000,34500,34500,Edo,New,Physical Store,Transfer,No,4.5
+ORD11199,2026-04-03 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0.05,13300,7000,6300,Lagos,New,Physical Store,Cash,No,5
+ORD10971,2026-04-03 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0,28000,14000,14000,Oyo,New,Physical Store,Card,No,4.5
+ORD10069,2026-04-04 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0.15,18700,12000,6700,Lagos,Returning,Jumia,Card,No,5
+ORD10836,2026-04-04 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0,22000,12000,10000,Lagos,Returning,Physical Store,Card,No,4.5
+ORD10444,2026-04-04 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0,14000,7000,7000,Ogun,New,Instagram,Card,Yes,4.5
+ORD10661,2026-04-04 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,3,0,57000,30000,27000,Abuja,Returning,Instagram,Cash,No,4
+ORD10353,2026-04-05 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,3,0.05,62700,36000,26700,Kaduna,New,WhatsApp,Card,Yes,4.5
+ORD10799,2026-04-05 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0,44000,24000,20000,Enugu,New,Instagram,USSD,No,4.5
+ORD10854,2026-04-05 00:00:00,Leather Noir,Woody,Men,50,11500,23000,5,0.05,109250,57500,51750,Abuja,Returning,Instagram,Cash,No,4
+ORD10418,2026-04-05 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,3,0.1,40500,22500,18000,Abuja,Returning,WhatsApp,Transfer,No,5
+ORD10302,2026-04-05 00:00:00,Royal Musk,Musk,Men,50,9000,18000,4,0,72000,36000,36000,Abuja,New,Physical Store,Cash,No,5
+ORD10812,2026-04-05 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0.05,18050,10000,8050,Enugu,New,Instagram,Transfer,No,5
+ORD10934,2026-04-06 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0.1,25200,14000,11200,Kaduna,New,Jumia,Transfer,No,4.5
+ORD10846,2026-04-06 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,3,0,49500,25500,24000,Delta,New,Physical Store,Transfer,No,4
+ORD10367,2026-04-06 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,2,0,38000,20000,18000,Abuja,Returning,WhatsApp,Cash,No,5
+ORD10761,2026-04-07 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0.1,18900,11000,7900,Rivers,New,Instagram,Transfer,No,4.5
+ORD10322,2026-04-07 00:00:00,Leather Noir,Woody,Men,50,11500,23000,4,0,92000,46000,46000,Abuja,Returning,Instagram,Cash,No,4.5
+ORD10917,2026-04-07 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0.05,26600,14000,12600,Kaduna,New,Physical Store,Transfer,No,5
+ORD10354,2026-04-08 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0.1,37800,22000,15800,Lagos,New,Instagram,Card,No,4.5
+ORD10369,2026-04-08 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0.1,14850,8500,6350,Lagos,New,WhatsApp,Cash,No,3
+ORD10098,2026-04-08 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0.05,13300,7000,6300,Abuja,Returning,Instagram,Card,No,4.5
+ORD10461,2026-04-09 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0.05,21850,11500,10350,Abuja,Returning,Physical Store,Transfer,No,4
+ORD10819,2026-04-09 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0.1,16200,9000,7200,Kano,New,WhatsApp,Cash,No,4.5
+ORD10721,2026-04-09 00:00:00,Leather Noir,Woody,Men,50,11500,23000,2,0,46000,23000,23000,Lagos,Returning,Physical Store,Cash,No,4.5
+ORD10019,2026-04-09 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,3,0.05,38475,19500,18975,Lagos,New,Jumia,Card,No,4
+ORD10862,2026-04-10 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0,19000,10000,9000,Lagos,New,WhatsApp,USSD,No,5
+ORD10615,2026-04-10 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0,18000,9000,9000,Kano,New,Website,Card,No,5
+ORD10268,2026-04-10 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0,42000,22000,20000,Rivers,Returning,WhatsApp,Transfer,No,4.5
+ORD10888,2026-04-10 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0.05,19950,11000,8950,Kano,Returning,Website,Card,No,3.5
+ORD11065,2026-04-11 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,2,0.1,27000,15000,12000,Oyo,Returning,WhatsApp,Transfer,No,5
+ORD10868,2026-04-11 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,2,0.05,25650,13000,12650,Oyo,New,WhatsApp,Transfer,No,4
+ORD10792,2026-04-11 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0.05,31350,17000,14350,Abuja,New,Website,Cash,No,5
+ORD10401,2026-04-11 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0,22000,12000,10000,Lagos,New,Physical Store,Transfer,No,4.5
+ORD10992,2026-04-12 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,3,0.05,59850,33000,26850,Abuja,Returning,Instagram,Cash,No,5
+ORD10421,2026-04-12 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0,44000,24000,20000,Lagos,Returning,Website,Cash,No,4
+ORD10874,2026-04-12 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0.05,15675,8500,7175,Lagos,New,Website,Cash,No,5
+ORD11120,2026-04-12 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0.1,39600,24000,15600,Oyo,New,Instagram,Card,No,4.5
+ORD10371,2026-04-12 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,2,0.05,36100,20000,16100,Lagos,Returning,Website,Cash,No,4
+ORD10918,2026-04-12 00:00:00,Leather Noir,Woody,Men,50,11500,23000,2,0.05,43700,23000,20700,Abuja,New,WhatsApp,Transfer,No,4
+ORD10887,2026-04-13 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,2,0,30000,15000,15000,Abuja,New,Physical Store,Cash,No,3
+ORD10104,2026-04-13 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,2,0,40000,21000,19000,Lagos,Returning,Instagram,Transfer,No,4.5
+ORD10290,2026-04-13 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0.05,12825,6500,6325,Lagos,Returning,WhatsApp,Transfer,No,4
+ORD10820,2026-04-13 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0,23000,11500,11500,Lagos,Returning,Instagram,USSD,No,4
+ORD10655,2026-04-13 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0,15000,7500,7500,Enugu,New,Instagram,Cash,No,4
+ORD10895,2026-04-14 00:00:00,Leather Noir,Woody,Men,50,11500,23000,2,0.05,43700,23000,20700,Enugu,New,Jumia,Card,No,4
+ORD10021,2026-04-14 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,3,0.1,56700,33000,23700,Oyo,New,Instagram,Card,No,5
+ORD10191,2026-04-14 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0,13500,6500,7000,Lagos,Returning,Website,Transfer,No,5
+ORD10941,2026-04-14 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0,28000,14000,14000,Enugu,New,Instagram,Cash,No,5
+ORD10712,2026-04-14 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,3,0,49500,25500,24000,Abuja,Returning,Jumia,Transfer,No,5
+ORD10570,2026-04-15 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0,28000,14000,14000,Lagos,Returning,Instagram,Transfer,Yes,3
+ORD10474,2026-04-15 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0.1,18000,10500,7500,Oyo,New,Physical Store,Transfer,No,3
+ORD10667,2026-04-15 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,2,0.1,27000,15000,12000,Lagos,New,WhatsApp,Transfer,No,5
+ORD10707,2026-04-15 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0.05,21850,11500,10350,Delta,New,WhatsApp,Transfer,No,4
+ORD10613,2026-04-16 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0.1,13500,7500,6000,Lagos,New,Instagram,Transfer,No,4.5
+ORD10590,2026-04-16 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,5,0,70000,35000,35000,Rivers,Returning,WhatsApp,Transfer,No,4
+ORD10393,2026-04-16 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,2,0,27000,13000,14000,Lagos,Returning,Jumia,Transfer,No,4
+ORD10476,2026-04-16 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0,44000,24000,20000,Lagos,New,Jumia,Transfer,No,4.5
+ORD11076,2026-04-16 00:00:00,Leather Noir,Woody,Men,50,11500,23000,2,0,46000,23000,23000,Ogun,Returning,Physical Store,Transfer,Yes,4
+ORD11135,2026-04-16 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0,18000,9000,9000,Lagos,Returning,Physical Store,Card,No,4.5
+ORD10359,2026-04-16 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0,14000,7000,7000,Abuja,New,Physical Store,USSD,No,4.5
+ORD10428,2026-04-16 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,4,0.1,79200,48000,31200,Rivers,Returning,WhatsApp,Transfer,No,5
+ORD10402,2026-04-16 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0,13500,6500,7000,Lagos,New,Jumia,Card,No,4.5
+ORD10927,2026-04-17 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0.05,20900,12000,8900,Lagos,Returning,WhatsApp,Transfer,No,3.5
+ORD11028,2026-04-17 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0,21000,11000,10000,Abuja,New,Jumia,Transfer,No,4.5
+ORD10789,2026-04-17 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0.05,12825,6500,6325,Abuja,New,Instagram,Card,No,4.5
+ORD10964,2026-04-17 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0.1,16200,9000,7200,Abuja,New,Physical Store,Transfer,No,3.5
+ORD10203,2026-04-17 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,3,0,63000,33000,30000,Lagos,Returning,Instagram,Card,No,5
+ORD10742,2026-04-17 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0.1,16200,9000,7200,Kaduna,New,Instagram,Cash,No,4
+ORD10239,2026-04-17 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0,16500,8500,8000,Abuja,Returning,WhatsApp,Transfer,No,4
+ORD10199,2026-04-17 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0,33000,17000,16000,Lagos,Returning,WhatsApp,Card,No,4
+ORD10494,2026-04-17 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0.15,17000,10500,6500,Lagos,New,WhatsApp,Transfer,No,4.5
+ORD10518,2026-04-18 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0,28000,14000,14000,Rivers,New,WhatsApp,Card,No,4
+ORD10392,2026-04-18 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,2,0,30000,15000,15000,Abuja,Returning,Instagram,Cash,Yes,4
+ORD10299,2026-04-19 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0,18000,9000,9000,Edo,New,WhatsApp,Transfer,No,4.5
+ORD10339,2026-04-20 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0,33000,17000,16000,Lagos,Returning,Instagram,Card,No,5
+ORD10759,2026-04-20 00:00:00,Royal Musk,Musk,Men,50,9000,18000,2,0,36000,18000,18000,Rivers,New,Physical Store,Card,No,5
+ORD10082,2026-04-20 00:00:00,Royal Musk,Musk,Men,50,9000,18000,4,0.1,64800,36000,28800,Lagos,Returning,WhatsApp,Transfer,No,3.5
+ORD11113,2026-04-20 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0,20000,10500,9500,Enugu,Returning,Jumia,Transfer,No,4
+ORD11037,2026-04-21 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0.05,15675,8500,7175,Lagos,Returning,Jumia,Cash,No,4
+ORD10066,2026-04-21 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0.1,29700,17000,12700,Kano,New,Website,Card,No,3.5
+ORD10366,2026-04-21 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0.1,12600,7000,5600,Delta,New,WhatsApp,Cash,Yes,4.5
+ORD10925,2026-04-22 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0,23000,11500,11500,Abuja,New,Instagram,Cash,No,5
+ORD10924,2026-04-22 00:00:00,Leather Noir,Woody,Men,50,11500,23000,2,0.05,43700,23000,20700,Ogun,New,Instagram,Cash,Yes,4.5
+ORD10625,2026-04-22 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0,20000,10500,9500,Ogun,New,Instagram,Card,No,5
+ORD10015,2026-04-23 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,2,0,27000,13000,14000,Lagos,Returning,Instagram,USSD,Yes,5
+ORD10477,2026-04-23 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0,22000,12000,10000,Ogun,Returning,Website,USSD,No,5
+ORD10583,2026-04-24 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0,23000,11500,11500,Lagos,Returning,WhatsApp,Transfer,No,4.5
+ORD10445,2026-04-24 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,2,0,38000,20000,18000,Rivers,Returning,Physical Store,Transfer,No,5
+ORD10287,2026-04-24 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,5,0,82500,42500,40000,Delta,Returning,Jumia,Transfer,No,4
+ORD10581,2026-04-24 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0.1,12150,6500,5650,Oyo,New,Instagram,USSD,No,5
+ORD10588,2026-04-25 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0.05,18050,10000,8050,Enugu,Returning,WhatsApp,Cash,No,4.5
+ORD11095,2026-04-25 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,3,0,63000,33000,30000,Lagos,New,WhatsApp,Card,No,4.5
+ORD10814,2026-04-25 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0,23000,11500,11500,Abuja,New,Website,Cash,No,4.5
+ORD10325,2026-04-25 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0.1,37800,22000,15800,Lagos,New,Website,Transfer,No,4.5
+ORD10601,2026-04-25 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0.15,14025,8500,5525,Edo,New,Instagram,Transfer,No,4
+ORD10079,2026-04-25 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,2,0,27000,13000,14000,Kano,New,Instagram,Transfer,No,3
+ORD10998,2026-04-26 00:00:00,Royal Musk,Musk,Men,50,9000,18000,3,0.05,51300,27000,24300,Lagos,New,WhatsApp,Transfer,No,3.5
+ORD10701,2026-04-26 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,3,0,40500,19500,21000,Kaduna,New,Physical Store,Transfer,No,4
+ORD10745,2026-04-26 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0,44000,24000,20000,Ogun,New,Instagram,Transfer,No,4.5
+ORD10737,2026-04-27 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0,21000,11000,10000,Kano,Returning,WhatsApp,Transfer,No,4.5
+ORD10152,2026-04-27 00:00:00,Royal Musk,Musk,Men,50,9000,18000,2,0,36000,18000,18000,Kaduna,New,Instagram,Card,No,5
+ORD10286,2026-04-27 00:00:00,Leather Noir,Woody,Men,50,11500,23000,2,0.05,43700,23000,20700,Lagos,New,WhatsApp,Transfer,No,4.5
+ORD10882,2026-04-27 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0.05,14250,7500,6750,Lagos,New,Instagram,Transfer,No,4.5
+ORD10564,2026-04-27 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0.1,12600,7000,5600,Rivers,New,Instagram,Card,No,4
+ORD10103,2026-04-27 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,5,0.05,78375,42500,35875,Kano,New,Instagram,Card,No,4
+ORD10083,2026-04-27 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,2,0,38000,20000,18000,Oyo,New,WhatsApp,USSD,No,4
+ORD10936,2026-04-28 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0.05,26600,14000,12600,Edo,Returning,Instagram,Transfer,Yes,4.5
+ORD10330,2026-04-28 00:00:00,Royal Musk,Musk,Men,50,9000,18000,2,0.05,34200,18000,16200,Kaduna,New,Instagram,USSD,No,5
+ORD10912,2026-04-28 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0,19000,10000,9000,Edo,New,Website,Card,No,5
+ORD10259,2026-04-28 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0,15000,7500,7500,Abuja,New,Instagram,Card,No,4
+ORD10092,2026-04-29 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,3,0,45000,22500,22500,Lagos,Returning,WhatsApp,Card,No,4
+ORD10487,2026-04-29 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0.05,41800,24000,17800,Ogun,New,Physical Store,Card,No,4.5
+ORD10883,2026-04-30 00:00:00,Leather Noir,Woody,Men,50,11500,23000,2,0.05,43700,23000,20700,Lagos,New,Instagram,Card,No,4
+ORD10090,2026-04-30 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0,18000,9000,9000,Kaduna,Returning,Jumia,Transfer,No,4.5
+ORD10142,2026-05-01 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0.05,26600,14000,12600,Oyo,New,Website,Cash,No,4
+ORD11015,2026-05-01 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0,14000,7000,7000,Lagos,New,Instagram,Card,No,4.5
+ORD10786,2026-05-01 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0.1,16200,9000,7200,Abuja,New,Instagram,Cash,Yes,4
+ORD10753,2026-05-01 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0.05,14250,7500,6750,Lagos,New,Jumia,Transfer,No,5
+ORD10966,2026-05-01 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,5,0.1,94500,55000,39500,Delta,New,WhatsApp,Card,No,4
+ORD11188,2026-05-01 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0.05,13300,7000,6300,Edo,New,Jumia,Cash,No,4
+ORD10062,2026-05-01 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0.05,39900,22000,17900,Rivers,New,Instagram,Transfer,No,5
+ORD10645,2026-05-01 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,2,0,40000,21000,19000,Ogun,Returning,Website,Card,No,4
+ORD10994,2026-05-02 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,2,0,30000,15000,15000,Delta,New,Physical Store,Transfer,No,4
+ORD10965,2026-05-02 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0.05,41800,24000,17800,Lagos,Returning,WhatsApp,Transfer,No,4.5
+ORD11036,2026-05-02 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,3,0,66000,36000,30000,Edo,New,Physical Store,Transfer,No,4
+ORD10134,2026-05-02 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0,22000,12000,10000,Abuja,New,Physical Store,USSD,No,5
+ORD11083,2026-05-02 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0.05,19950,11000,8950,Abuja,New,Physical Store,Transfer,No,4
+ORD10835,2026-05-02 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0,13500,6500,7000,Delta,New,Instagram,Transfer,No,4.5
+ORD10642,2026-05-03 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0,13500,6500,7000,Kaduna,Returning,Jumia,Card,No,4.5
+ORD11004,2026-05-03 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0,19000,10000,9000,Delta,New,Jumia,Transfer,No,4.5
+ORD11027,2026-05-03 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0.05,18050,10000,8050,Ogun,Returning,Instagram,Transfer,No,5
+ORD10816,2026-05-03 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0,28000,14000,14000,Delta,Returning,Instagram,Cash,No,4
+ORD10031,2026-05-04 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,2,0.05,25650,13000,12650,Kano,New,WhatsApp,Card,No,5
+ORD10186,2026-05-04 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,4,0,56000,28000,28000,Abuja,New,WhatsApp,USSD,No,4.5
+ORD10334,2026-05-04 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0.05,20900,12000,8900,Lagos,New,Instagram,Card,No,3
+ORD11013,2026-05-04 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0,42000,22000,20000,Ogun,Returning,Jumia,Transfer,No,4
+ORD10775,2026-05-04 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,4,0,88000,48000,40000,Delta,New,Physical Store,USSD,No,4
+ORD10345,2026-05-05 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,3,0.05,62700,36000,26700,Oyo,Returning,Jumia,Cash,No,4.5
+ORD10247,2026-05-05 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0.1,16200,9000,7200,Ogun,Returning,WhatsApp,Transfer,No,4
+ORD10355,2026-05-06 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0,14000,7000,7000,Lagos,New,Instagram,Transfer,No,5
+ORD10242,2026-05-06 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0.05,41800,24000,17800,Oyo,New,Physical Store,Card,No,3.5
+ORD10273,2026-05-06 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0,21000,11000,10000,Oyo,New,Website,Card,No,4
+ORD10364,2026-05-07 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0.05,14250,7500,6750,Lagos,New,Physical Store,Transfer,No,4
+ORD10081,2026-05-07 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,4,0.05,57000,30000,27000,Lagos,New,Website,Card,No,5
+ORD10063,2026-05-07 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,3,0,66000,36000,30000,Delta,New,Physical Store,Card,No,5
+ORD10729,2026-05-08 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0,28000,14000,14000,Abuja,New,Jumia,Card,No,4.5
+ORD10930,2026-05-08 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0.05,20900,12000,8900,Kaduna,New,Jumia,Transfer,No,4.5
+ORD11099,2026-05-09 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0,23000,11500,11500,Abuja,Returning,Website,USSD,No,4
+ORD10150,2026-05-09 00:00:00,Royal Musk,Musk,Men,50,9000,18000,3,0.05,51300,27000,24300,Lagos,New,Instagram,Transfer,No,4.5
+ORD10032,2026-05-09 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0,20000,10500,9500,Lagos,New,Instagram,Card,No,4
+ORD10865,2026-05-09 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0.1,25200,14000,11200,Oyo,Returning,WhatsApp,USSD,No,5
+ORD10596,2026-05-10 00:00:00,Royal Musk,Musk,Men,50,9000,18000,3,0.05,51300,27000,24300,Lagos,New,Instagram,Card,No,5
+ORD10873,2026-05-10 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0,14000,7000,7000,Lagos,New,Website,USSD,No,4
+ORD10357,2026-05-10 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0,20000,10500,9500,Enugu,Returning,Website,Transfer,No,4
+ORD10123,2026-05-10 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,3,0.05,62700,36000,26700,Kaduna,New,Instagram,USSD,No,4
+ORD10143,2026-05-10 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0.1,16200,9000,7200,Lagos,New,Instagram,Card,No,4.5
+ORD10703,2026-05-11 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0.1,18900,11000,7900,Lagos,New,Website,Cash,No,4.5
+ORD10217,2026-05-11 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,3,0,40500,19500,21000,Enugu,New,Instagram,Transfer,No,4.5
+ORD10938,2026-05-11 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0.05,17100,9000,8100,Lagos,Returning,Physical Store,USSD,No,4.5
+ORD10716,2026-05-11 00:00:00,Royal Musk,Musk,Men,50,9000,18000,3,0.05,51300,27000,24300,Rivers,New,Website,Transfer,No,3.5
+ORD10690,2026-05-12 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,2,0.05,36100,20000,16100,Ogun,Returning,Jumia,Transfer,No,3
+ORD10333,2026-05-12 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0.05,19950,11000,8950,Ogun,Returning,Website,Cash,No,4.5
+ORD11031,2026-05-13 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0,13500,6500,7000,Ogun,New,Website,Transfer,No,4
+ORD10176,2026-05-13 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0.05,39900,22000,17900,Lagos,New,WhatsApp,Transfer,No,4
+ORD10324,2026-05-14 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0,42000,22000,20000,Kaduna,New,Website,Transfer,No,5
+ORD10821,2026-05-14 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0,33000,17000,16000,Edo,New,Instagram,Transfer,No,4.5
+ORD11056,2026-05-14 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0.05,31350,17000,14350,Edo,New,Instagram,Cash,No,4.5
+ORD10309,2026-05-14 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0.05,31350,17000,14350,Lagos,Returning,Physical Store,Card,No,3
+ORD10455,2026-05-14 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0,14000,7000,7000,Oyo,New,Physical Store,Transfer,No,4.5
+ORD10663,2026-05-14 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0.1,20700,11500,9200,Rivers,New,Website,Card,No,4
+ORD10790,2026-05-15 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0,21000,11000,10000,Oyo,Returning,Physical Store,Transfer,No,5
+ORD10764,2026-05-15 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0,28000,14000,14000,Oyo,New,Jumia,Cash,No,4
+ORD10255,2026-05-15 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,5,0.05,104500,60000,44500,Lagos,New,Website,Transfer,No,4
+ORD11091,2026-05-15 00:00:00,Royal Musk,Musk,Men,50,9000,18000,3,0,54000,27000,27000,Abuja,Returning,WhatsApp,Card,No,5
+ORD10165,2026-05-16 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0.1,18900,11000,7900,Kaduna,Returning,Instagram,Transfer,No,4
+ORD10983,2026-05-17 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0.05,41800,24000,17800,Kaduna,Returning,Instagram,Card,No,3
+ORD10073,2026-05-17 00:00:00,Leather Noir,Woody,Men,50,11500,23000,3,0.15,58650,34500,24150,Lagos,New,Jumia,Cash,No,4.5
+ORD10739,2026-05-17 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0,18000,9000,9000,Oyo,New,Jumia,Cash,No,4
+ORD10492,2026-05-17 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0.05,15675,8500,7175,Abuja,New,Website,Card,No,5
+ORD10068,2026-05-17 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,3,0,40500,19500,21000,Lagos,New,WhatsApp,USSD,No,3.5
+ORD10555,2026-05-18 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0,44000,24000,20000,Lagos,New,Jumia,Transfer,No,4
+ORD10315,2026-05-18 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,2,0.05,25650,13000,12650,Delta,New,WhatsApp,Transfer,No,3.5
+ORD10429,2026-05-18 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0.05,12825,6500,6325,Lagos,New,Instagram,USSD,No,4
+ORD10346,2026-05-19 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0,42000,22000,20000,Delta,New,Website,Transfer,No,4.5
+ORD10693,2026-05-19 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,3,0,42000,21000,21000,Delta,Returning,WhatsApp,Cash,No,3.5
+ORD10513,2026-05-19 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0,14000,7000,7000,Enugu,New,Website,Transfer,No,5
+ORD10832,2026-05-19 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0,19000,10000,9000,Lagos,Returning,Website,USSD,No,5
+ORD10281,2026-05-19 00:00:00,Leather Noir,Woody,Men,50,11500,23000,5,0.05,109250,57500,51750,Ogun,Returning,Instagram,Transfer,Yes,4.5
+ORD10008,2026-05-19 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,5,0.05,104500,60000,44500,Lagos,Returning,Physical Store,Card,No,3
+ORD10682,2026-05-19 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,4,0,56000,28000,28000,Rivers,New,Website,Cash,No,4.5
+ORD10842,2026-05-20 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,2,0,38000,20000,18000,Enugu,New,Website,Cash,No,4
+ORD10109,2026-05-20 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,4,0,56000,28000,28000,Edo,Returning,Instagram,Card,No,4
+ORD10485,2026-05-20 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0.05,15675,8500,7175,Kaduna,Returning,Website,Transfer,No,4
+ORD10377,2026-05-20 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,2,0,38000,20000,18000,Delta,New,Physical Store,Transfer,No,5
+ORD10665,2026-05-21 00:00:00,Royal Musk,Musk,Men,50,9000,18000,2,0.05,34200,18000,16200,Ogun,Returning,WhatsApp,USSD,No,3.5
+ORD11190,2026-05-21 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,2,0.1,36000,21000,15000,Oyo,Returning,Website,Cash,No,5
+ORD10327,2026-05-21 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0.05,17100,9000,8100,Enugu,Returning,Website,Transfer,No,4
+ORD10781,2026-05-21 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0,14000,7000,7000,Delta,Returning,WhatsApp,Card,No,5
+ORD10640,2026-05-21 00:00:00,Royal Musk,Musk,Men,50,9000,18000,2,0.1,32400,18000,14400,Oyo,New,Instagram,Card,No,3.5
+ORD10285,2026-05-21 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0,18000,9000,9000,Lagos,Returning,Instagram,USSD,No,4.5
+ORD10728,2026-05-21 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0,28000,14000,14000,Kaduna,New,Physical Store,Transfer,No,4.5
+ORD10749,2026-05-22 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0.15,19550,11500,8050,Delta,New,Physical Store,Cash,No,4.5
+ORD10375,2026-05-22 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0,13500,6500,7000,Ogun,Returning,Instagram,Transfer,No,4.5
+ORD10108,2026-05-22 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0.05,20900,12000,8900,Abuja,Returning,Physical Store,Card,No,3
+ORD10985,2026-05-22 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,2,0.05,38000,21000,17000,Lagos,New,WhatsApp,USSD,Yes,4.5
+ORD10231,2026-05-22 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0.15,16150,10000,6150,Rivers,New,Instagram,Card,No,4.5
+ORD10349,2026-05-22 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,2,0,38000,20000,18000,Lagos,Returning,Instagram,Transfer,No,5
+ORD11050,2026-05-22 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0.05,13300,7000,6300,Lagos,New,Website,Cash,No,4
+ORD10102,2026-05-23 00:00:00,Royal Musk,Musk,Men,50,9000,18000,2,0.1,32400,18000,14400,Kano,New,Website,Transfer,No,4.5
+ORD10220,2026-05-23 00:00:00,Royal Musk,Musk,Men,50,9000,18000,5,0,90000,45000,45000,Lagos,New,WhatsApp,Card,No,4
+ORD10385,2026-05-23 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,2,0.1,24300,13000,11300,Enugu,New,WhatsApp,Transfer,No,4
+ORD11154,2026-05-23 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0,16500,8500,8000,Abuja,New,Physical Store,USSD,No,5
+ORD10857,2026-05-23 00:00:00,Royal Musk,Musk,Men,50,9000,18000,2,0,36000,18000,18000,Lagos,New,Physical Store,Card,No,5
+ORD11081,2026-05-23 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0,18000,9000,9000,Kaduna,New,WhatsApp,Card,No,3
+ORD10343,2026-05-23 00:00:00,Leather Noir,Woody,Men,50,11500,23000,3,0.05,65550,34500,31050,Abuja,New,Jumia,USSD,No,4.5
+ORD10580,2026-05-23 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0.1,19800,12000,7800,Abuja,Returning,Physical Store,Transfer,No,4.5
+ORD10591,2026-05-24 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,2,0,30000,15000,15000,Kano,New,WhatsApp,Transfer,No,4
+ORD10042,2026-05-24 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0,15000,7500,7500,Ogun,New,WhatsApp,Cash,Yes,5
+ORD10497,2026-05-24 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,3,0,60000,31500,28500,Ogun,Returning,WhatsApp,Card,No,4
+ORD10388,2026-05-25 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0.05,20900,12000,8900,Delta,Returning,WhatsApp,Cash,No,5
+ORD10045,2026-05-25 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0.15,18700,12000,6700,Edo,Returning,Physical Store,Transfer,No,4
+ORD10687,2026-05-25 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0.05,19950,11000,8950,Rivers,Returning,Instagram,Card,No,4
+ORD10358,2026-05-25 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,3,0,40500,19500,21000,Ogun,Returning,WhatsApp,Cash,No,3
+ORD10509,2026-05-25 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,3,0,45000,22500,22500,Rivers,New,WhatsApp,Cash,No,3
+ORD10649,2026-05-25 00:00:00,Royal Musk,Musk,Men,50,9000,18000,3,0.05,51300,27000,24300,Lagos,New,Instagram,Card,Yes,4.5
+ORD11137,2026-05-25 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,3,0,66000,36000,30000,Ogun,New,Instagram,Card,No,3.5
+ORD10928,2026-05-26 00:00:00,Amber Night,Woody,Unisex,50,11000,21000,1,0.1,18900,11000,7900,Ogun,New,Instagram,Card,No,3.5
+ORD10587,2026-05-26 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,3,0,49500,25500,24000,Lagos,New,Instagram,USSD,No,4.5
+ORD10197,2026-05-26 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0,13500,6500,7000,Abuja,New,Physical Store,Cash,No,4.5
+ORD10338,2026-05-26 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,2,0.05,38000,21000,17000,Edo,New,Website,Card,No,4.5
+ORD10523,2026-05-26 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0.1,20700,11500,9200,Kano,New,Website,Transfer,No,5
+ORD10391,2026-05-26 00:00:00,Leather Noir,Woody,Men,50,11500,23000,2,0.05,43700,23000,20700,Lagos,Returning,WhatsApp,Card,No,5
+ORD10926,2026-05-27 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0,33000,17000,16000,Ogun,New,WhatsApp,Transfer,No,5
+ORD10018,2026-05-27 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,2,0.1,24300,13000,11300,Abuja,New,Jumia,Transfer,No,4
+ORD10222,2026-05-27 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0,21000,11000,10000,Edo,New,WhatsApp,Transfer,No,3.5
+ORD10250,2026-05-27 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0.1,18000,10500,7500,Ogun,New,Physical Store,Card,Yes,3.5
+ORD10024,2026-05-27 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,3,0.05,47025,25500,21525,Oyo,Returning,Instagram,USSD,No,4.5
+ORD11002,2026-05-27 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0.05,15675,8500,7175,Oyo,New,WhatsApp,Cash,No,4.5
+ORD11092,2026-05-28 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0.1,14850,8500,6350,Ogun,Returning,Instagram,Transfer,No,3.5
+ORD10204,2026-05-28 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0.1,18900,11000,7900,Lagos,Returning,WhatsApp,Cash,No,4.5
+ORD11096,2026-05-28 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0.05,26600,14000,12600,Lagos,Returning,WhatsApp,Card,No,3
+ORD11117,2026-05-28 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0,20000,10500,9500,Ogun,New,Website,Transfer,No,4.5
+ORD10166,2026-05-29 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,5,0.1,85500,50000,35500,Lagos,New,Physical Store,USSD,No,5
+ORD10659,2026-05-29 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0,42000,22000,20000,Edo,Returning,Instagram,Transfer,No,5
+ORD11195,2026-05-29 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0,20000,10500,9500,Kano,Returning,Website,Transfer,No,5
+ORD11043,2026-05-29 00:00:00,Leather Noir,Woody,Men,50,11500,23000,3,0.1,62100,34500,27600,Oyo,New,Physical Store,Card,No,4.5
+ORD10159,2026-05-29 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0,21000,11000,10000,Lagos,New,Website,Card,No,4.5
+ORD10394,2026-05-30 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0.05,17100,9000,8100,Kaduna,New,Jumia,Transfer,No,5
+ORD11174,2026-05-30 00:00:00,Leather Noir,Woody,Men,50,11500,23000,4,0,92000,46000,46000,Oyo,Returning,WhatsApp,Transfer,No,4.5
+ORD11163,2026-05-30 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0.1,12600,7000,5600,Abuja,New,Physical Store,Cash,No,4.5
+ORD10673,2026-05-30 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0.1,29700,17000,12700,Lagos,New,Instagram,Transfer,No,4
+ORD11133,2026-05-31 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0.05,39900,22000,17900,Lagos,New,Physical Store,Transfer,No,4.5
+ORD10752,2026-05-31 00:00:00,Leather Noir,Woody,Men,50,11500,23000,3,0.1,62100,34500,27600,Oyo,Returning,Instagram,Transfer,No,4.5
+ORD10167,2026-05-31 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0,33000,17000,16000,Lagos,New,Instagram,USSD,No,3.5
+ORD11125,2026-05-31 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0.05,19950,11000,8950,Abuja,New,Instagram,Card,No,3
+ORD10911,2026-06-01 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0.1,19800,12000,7800,Kano,Returning,Physical Store,Cash,No,4
+ORD11009,2026-06-01 00:00:00,Leather Noir,Woody,Men,50,11500,23000,3,0,69000,34500,34500,Lagos,New,Instagram,Cash,No,4
+ORD10376,2026-06-01 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,4,0.05,83600,48000,35600,Kaduna,Returning,Instagram,Transfer,No,4
+ORD11166,2026-06-01 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,4,0,88000,48000,40000,Lagos,New,Instagram,Cash,No,4
+ORD10940,2026-06-01 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,2,0,38000,20000,18000,Lagos,New,Physical Store,Cash,No,4.5
+ORD10914,2026-06-01 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0,13500,6500,7000,Lagos,Returning,Instagram,Cash,No,4
+ORD10632,2026-06-01 00:00:00,Royal Musk,Musk,Men,50,9000,18000,5,0.05,85500,45000,40500,Abuja,New,Physical Store,Transfer,No,4.5
+ORD10538,2026-06-01 00:00:00,Leather Noir,Woody,Men,50,11500,23000,3,0.05,65550,34500,31050,Kano,New,Jumia,Card,No,4
+ORD11173,2026-06-01 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0,20000,10500,9500,Delta,New,WhatsApp,Card,No,4
+ORD10638,2026-06-01 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,3,0,57000,30000,27000,Delta,New,Website,Transfer,No,5
+ORD11115,2026-06-01 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,3,0.15,34425,19500,14925,Delta,New,Physical Store,Card,No,4
+ORD10040,2026-06-01 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,5,0,100000,52500,47500,Enugu,New,Instagram,Cash,No,5
+ORD10196,2026-06-01 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0,16500,8500,8000,Abuja,Returning,Physical Store,Cash,No,3.5
+ORD10952,2026-06-01 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0,18000,9000,9000,Lagos,New,Physical Store,Transfer,No,4.5
+ORD11180,2026-06-02 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,2,0,27000,13000,14000,Rivers,New,Instagram,Transfer,No,4
+ORD10656,2026-06-02 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,5,0.05,78375,42500,35875,Kano,Returning,Instagram,Cash,No,4.5
+ORD11047,2026-06-02 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0.1,13500,7500,6000,Rivers,Returning,Website,Cash,No,3.5
+ORD11110,2026-06-02 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0.05,13300,7000,6300,Lagos,New,Instagram,Card,No,4.5
+ORD10989,2026-06-03 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0.05,14250,7500,6750,Lagos,New,Physical Store,Card,No,4.5
+ORD10829,2026-06-03 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,3,0.1,56700,33000,23700,Lagos,New,Instagram,Transfer,No,4
+ORD11086,2026-06-03 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0,18000,9000,9000,Ogun,New,Jumia,USSD,No,5
+ORD10758,2026-06-03 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0.1,12150,6500,5650,Ogun,Returning,Website,Transfer,No,3.5
+ORD10289,2026-06-03 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0.1,18900,11000,7900,Delta,New,Physical Store,Card,No,4.5
+ORD11141,2026-06-03 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0.1,20700,11500,9200,Lagos,New,Instagram,USSD,No,4
+ORD10310,2026-06-03 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0.05,13300,7000,6300,Ogun,Returning,Instagram,USSD,No,5
+ORD10352,2026-06-04 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0.05,26600,14000,12600,Kano,New,Physical Store,USSD,No,5
+ORD11200,2026-06-04 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0.05,13300,7000,6300,Abuja,New,Website,Card,No,3
+ORD10784,2026-06-04 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0.15,11900,7000,4900,Lagos,New,Instagram,Transfer,No,4.5
+ORD10372,2026-06-05 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0,19000,10000,9000,Oyo,Returning,Instagram,Transfer,Yes,4.5
+ORD10713,2026-06-05 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0.05,26600,14000,12600,Kano,Returning,WhatsApp,Transfer,No,5
+ORD11126,2026-06-05 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0,23000,11500,11500,Abuja,New,Physical Store,USSD,No,4.5
+ORD10622,2026-06-05 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0.05,21850,11500,10350,Rivers,New,Jumia,Card,No,5
+ORD11175,2026-06-05 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0,16500,8500,8000,Rivers,New,Instagram,Transfer,No,3
+ORD10077,2026-06-06 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,3,0.05,54150,30000,24150,Lagos,New,Instagram,Cash,No,5
+ORD10263,2026-06-06 00:00:00,Royal Musk,Musk,Men,50,9000,18000,2,0.1,32400,18000,14400,Delta,Returning,Instagram,Card,No,4.5
+ORD11153,2026-06-06 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0.05,17100,9000,8100,Abuja,New,Physical Store,Card,Yes,4.5
+ORD10995,2026-06-07 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0,19000,10000,9000,Ogun,Returning,Instagram,Transfer,No,3.5
+ORD10235,2026-06-07 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,4,0.1,72000,42000,30000,Lagos,New,Website,Cash,No,4.5
+ORD10800,2026-06-07 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0,14000,7000,7000,Oyo,Returning,Instagram,Transfer,No,3
+ORD10226,2026-06-07 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,5,0.05,99750,55000,44750,Abuja,New,Physical Store,Card,No,5
+ORD10449,2026-06-07 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,5,0,75000,37500,37500,Delta,,Instagram,Card,No,4.5
+ORD11129,2026-06-07 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,2,0.05,28500,15000,13500,Oyo,New,Physical Store,Transfer,No,5
+ORD10078,2026-06-08 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0.05,41800,24000,17800,Abuja,New,Website,Card,No,4
+ORD10390,2026-06-08 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,2,0,27000,13000,14000,Edo,New,Jumia,USSD,No,5
+ORD10149,2026-06-08 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,3,0.15,35700,21000,14700,Kano,Returning,WhatsApp,Transfer,No,3.5
+ORD10543,2026-06-08 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0.1,13500,7500,6000,Lagos,Returning,Instagram,Transfer,No,4
+ORD10412,2026-06-08 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0.05,13300,7000,6300,Kaduna,New,Physical Store,Card,No,4.5
+ORD10710,2026-06-09 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0.05,31350,17000,14350,Abuja,New,WhatsApp,Transfer,No,4
+ORD10185,2026-06-09 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0,14000,7000,7000,Kano,Returning,Website,Transfer,No,4.5
+ORD10002,2026-06-10 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,4,0.1,79200,48000,31200,Abuja,New,WhatsApp,Transfer,No,4
+ORD10532,2026-06-10 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0.05,18050,10000,8050,Lagos,Returning,Website,Cash,No,3
+ORD11040,2026-06-10 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0.05,19000,10500,8500,Lagos,New,Physical Store,Transfer,No,3.5
+ORD10071,2026-06-10 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0,28000,14000,14000,Abuja,New,Website,Card,No,4.5
+ORD10773,2026-06-10 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0.05,17100,9000,8100,Lagos,New,Website,Cash,No,4
+ORD10552,2026-06-11 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0.1,25200,14000,11200,Ogun,New,WhatsApp,Transfer,No,4.5
+ORD10252,2026-06-12 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0.05,12825,6500,6325,Lagos,New,Physical Store,Card,No,5
+ORD10584,2026-06-12 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,5,0.05,99750,55000,44750,Enugu,New,Instagram,Transfer,No,4
+ORD10119,2026-06-12 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,5,0.05,78375,42500,35875,Lagos,New,Instagram,Card,No,4.5
+ORD10670,2026-06-12 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0.05,26600,14000,12600,Abuja,Returning,Instagram,Transfer,No,4
+ORD10202,2026-06-12 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0,13500,6500,7000,Lagos,Returning,Jumia,Transfer,No,3
+ORD10788,2026-06-13 00:00:00,Royal Musk,Musk,Men,50,9000,18000,3,0,54000,27000,27000,Lagos,Returning,Instagram,Cash,No,3
+ORD10373,2026-06-13 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0.05,31350,17000,14350,Edo,New,Physical Store,Cash,No,5
+ORD10958,2026-06-13 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0.05,39900,22000,17900,Abuja,New,WhatsApp,Transfer,No,4.5
+ORD10224,2026-06-13 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0.05,31350,17000,14350,Lagos,New,Instagram,Card,No,4
+ORD11038,2026-06-13 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0.05,13300,7000,6300,Delta,New,WhatsApp,USSD,Yes,4.5
+ORD10291,2026-06-13 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0,15000,7500,7500,Kano,Returning,Website,Transfer,No,3
+ORD11109,2026-06-13 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,2,0.05,38000,21000,17000,Abuja,New,WhatsApp,Transfer,No,3.5
+ORD10050,2026-06-13 00:00:00,Leather Noir,Woody,Men,50,11500,23000,3,0,69000,34500,34500,Ogun,New,Website,Transfer,No,4
+ORD10427,2026-06-13 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0.15,37400,24000,13400,Lagos,New,WhatsApp,Transfer,No,3.5
+ORD10270,2026-06-14 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0,44000,24000,20000,Delta,Returning,Physical Store,USSD,No,3
+ORD10248,2026-06-14 00:00:00,Leather Noir,Woody,Men,50,11500,23000,3,0.05,65550,34500,31050,Kano,New,Physical Store,Cash,No,4.5
+ORD11001,2026-06-14 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0.15,16150,10000,6150,Enugu,New,WhatsApp,Transfer,Yes,3.5
+ORD10867,2026-06-15 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,3,0,42000,21000,21000,Abuja,New,Physical Store,Cash,No,4.5
+ORD10896,2026-06-15 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0.1,16200,9000,7200,Kano,New,Website,Cash,No,4.5
+ORD11155,2026-06-15 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0,19000,10000,9000,Abuja,New,Instagram,Transfer,No,4.5
+ORD11058,2026-06-15 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0,21000,11000,10000,Enugu,New,Instagram,Transfer,No,4.5
+ORD10942,2026-06-16 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,3,0,63000,33000,30000,Abuja,New,Physical Store,USSD,No,4
+ORD10508,2026-06-16 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0,42000,22000,20000,Delta,New,WhatsApp,Cash,No,4.5
+ORD10437,2026-06-16 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0,23000,11500,11500,Oyo,New,Website,Card,No,4
+ORD11187,2026-06-16 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,3,0,42000,21000,21000,Kano,Returning,Website,Cash,No,4.5
+ORD10909,2026-06-17 00:00:00,Leather Noir,Woody,Men,50,11500,23000,4,0,92000,46000,46000,Oyo,Returning,Physical Store,Transfer,No,5
+ORD10949,2026-06-17 00:00:00,Leather Noir,Woody,Men,50,11500,23000,2,0,46000,23000,23000,Abuja,New,WhatsApp,Transfer,No,4.5
+ORD10548,2026-06-17 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0.1,12150,6500,5650,Kano,New,Instagram,Card,No,4
+ORD11039,2026-06-17 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,2,0.05,25650,13000,12650,Ogun,New,Website,Card,No,3.5
+ORD10096,2026-06-17 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0,19000,10000,9000,Lagos,Returning,WhatsApp,Card,No,5
+ORD10022,2026-06-18 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0.05,20900,12000,8900,Lagos,New,WhatsApp,Transfer,No,4.5
+ORD11144,2026-06-18 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0.1,12600,7000,5600,Abuja,Returning,Website,Transfer,Yes,4
+ORD10416,2026-06-18 00:00:00,Royal Musk,Musk,Men,50,9000,18000,2,0,36000,18000,18000,Ogun,New,WhatsApp,USSD,No,3.5
+ORD10450,2026-06-19 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0,19000,10000,9000,Ogun,New,Physical Store,Transfer,No,5
+ORD10837,2026-06-19 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0,15000,7500,7500,Kaduna,New,Jumia,Card,No,3.5
+ORD10589,2026-06-19 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0,19000,10000,9000,Kano,Returning,Instagram,USSD,No,4.5
+ORD10955,2026-06-20 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0,19000,10000,9000,Oyo,New,Physical Store,Card,No,3.5
+ORD10442,2026-06-20 00:00:00,Leather Noir,Woody,Men,50,11500,23000,5,0.1,103500,57500,46000,Kano,Returning,Instagram,USSD,No,4.5
+ORD10579,2026-06-20 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0.05,18050,10000,8050,Lagos,Returning,Physical Store,Transfer,No,4.5
+ORD10908,2026-06-21 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,5,0,82500,42500,40000,Rivers,New,Website,Card,No,4
+ORD10708,2026-06-21 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0.1,18000,10500,7500,Ogun,Returning,WhatsApp,Transfer,No,5
+ORD10435,2026-06-21 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0.05,20900,12000,8900,Lagos,Returning,Jumia,Transfer,No,4.5
+ORD10798,2026-06-21 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0,18000,9000,9000,Kano,Returning,WhatsApp,USSD,No,5
+ORD10738,2026-06-22 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,2,0,27000,13000,14000,Kano,Returning,Instagram,Transfer,No,5
+ORD10967,2026-06-22 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0.05,21850,11500,10350,Edo,Returning,Physical Store,Transfer,No,4
+ORD10448,2026-06-22 00:00:00,Royal Musk,Musk,Men,50,9000,18000,2,0.05,34200,18000,16200,Lagos,New,Jumia,USSD,No,4.5
+ORD10919,2026-06-22 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0.05,31350,17000,14350,Abuja,Returning,Instagram,Transfer,No,4.5
+ORD10898,2026-06-22 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,4,0,80000,42000,38000,Enugu,Returning,Jumia,Transfer,No,5
+ORD11169,2026-06-22 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,2,0,27000,13000,14000,Lagos,New,Jumia,Card,No,4
+ORD10131,2026-06-23 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0,22000,12000,10000,Kano,Returning,Instagram,Cash,No,4.5
+ORD10988,2026-06-23 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0,20000,10500,9500,Abuja,Returning,Instagram,Transfer,Yes,5
+ORD11082,2026-06-23 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0,28000,14000,14000,Lagos,Returning,Physical Store,Card,No,4.5
+ORD10044,2026-06-23 00:00:00,Leather Noir,Woody,Men,50,11500,23000,2,0.1,41400,23000,18400,Kano,New,Physical Store,Cash,No,5
+ORD11051,2026-06-24 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0,23000,11500,11500,Enugu,Returning,Instagram,Card,No,4.5
+ORD10624,2026-06-24 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,3,0.1,56700,33000,23700,Lagos,Returning,WhatsApp,Transfer,No,4
+ORD10121,2026-06-24 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0,13500,6500,7000,Edo,Returning,Instagram,Cash,No,5
+ORD10871,2026-06-24 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,2,0,38000,20000,18000,Ogun,New,Instagram,Transfer,No,4
+ORD10087,2026-06-24 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0.1,14850,8500,6350,Ogun,New,WhatsApp,Card,No,4
+ORD10003,2026-06-24 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0,16500,8500,8000,Rivers,New,Jumia,Card,No,4.5
+ORD10341,2026-06-25 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,3,0.1,56700,33000,23700,Abuja,Returning,Jumia,Transfer,No,5
+ORD10831,2026-06-25 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0,18000,9000,9000,Lagos,New,Instagram,Card,No,4.5
+ORD11098,2026-06-26 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0,13500,6500,7000,Edo,Returning,WhatsApp,USSD,No,5
+ORD10447,2026-06-26 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0.1,37800,22000,15800,Edo,Returning,Website,Card,No,5
+ORD10053,2026-06-26 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,5,0,67500,32500,35000,Enugu,New,WhatsApp,Transfer,No,4
+ORD10849,2026-06-26 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,3,0,49500,25500,24000,Kano,New,Jumia,Transfer,No,4.5
+ORD10451,2026-06-26 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0,20000,10500,9500,Lagos,New,WhatsApp,Card,No,3.5
+ORD11055,2026-06-26 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,2,0,30000,15000,15000,Abuja,New,Website,Card,No,5
+ORD11074,2026-06-27 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0.05,21850,11500,10350,Lagos,New,Instagram,Transfer,No,4
+ORD10211,2026-06-27 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0.1,12600,7000,5600,Lagos,New,Instagram,Transfer,No,4.5
+ORD10145,2026-06-27 00:00:00,Leather Noir,Woody,Men,50,11500,23000,2,0.1,41400,23000,18400,Abuja,New,Instagram,Transfer,No,4.5
+ORD10544,2026-06-27 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0,21000,11000,10000,Lagos,Returning,Website,Cash,No,4
+ORD10686,2026-06-27 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0,15000,7500,7500,Lagos,New,Jumia,Transfer,No,4
+ORD10733,2026-06-27 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0,18000,9000,9000,Lagos,New,Physical Store,Transfer,No,4.5
+ORD10855,2026-06-27 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0.1,39600,24000,15600,Ogun,Returning,Instagram,Transfer,No,4
+ORD10968,2026-06-27 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0.1,20700,11500,9200,Kaduna,New,Website,Transfer,No,4.5
+ORD10517,2026-06-27 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,2,0,38000,20000,18000,Enugu,New,Website,Transfer,No,4
+ORD10112,2026-06-27 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,2,0.05,36100,20000,16100,Ogun,Returning,Jumia,Card,No,4
+ORD10075,2026-06-28 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0.05,26600,14000,12600,Rivers,New,WhatsApp,Card,No,4.5
+ORD11139,2026-06-28 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,3,0,57000,30000,27000,Rivers,Returning,Instagram,Cash,No,4
+ORD10646,2026-06-28 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0.05,20900,12000,8900,Lagos,New,Jumia,Card,No,3
+ORD10755,2026-06-28 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,3,0,57000,30000,27000,Edo,Returning,Physical Store,Cash,No,4.5
+ORD11189,2026-06-29 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,5,0,70000,35000,35000,Oyo,New,Website,Transfer,No,5
+ORD10650,2026-06-29 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,2,0,27000,13000,14000,Abuja,New,Physical Store,Card,No,4.5
+ORD10368,2026-06-29 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0.05,19000,10500,8500,Ogun,New,Instagram,Transfer,No,4.5
+ORD11185,2026-06-29 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0.15,18700,12000,6700,Lagos,New,Website,Transfer,Yes,4
+ORD11094,2026-06-29 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,4,0.1,68400,40000,28400,Rivers,Returning,WhatsApp,Card,No,4.5
+ORD10408,2026-06-30 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0.1,18000,10500,7500,Kaduna,New,Physical Store,Transfer,Yes,4
+ORD10406,2026-06-30 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,2,0.05,38000,21000,17000,Kaduna,New,WhatsApp,Card,No,4
+ORD10935,2026-06-30 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0.05,13300,7000,6300,Ogun,Returning,Jumia,Transfer,No,5
+ORD10272,2026-06-30 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,3,0.05,39900,21000,18900,Lagos,New,WhatsApp,Transfer,No,5
+ORD10503,2026-06-30 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0,42000,22000,20000,Oyo,Returning,Instagram,Transfer,No,4.5
+ORD10495,2026-06-30 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0.05,14250,7500,6750,Lagos,Returning,Website,Transfer,No,4
+ORD10025,2026-06-30 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0.1,12150,6500,5650,Oyo,Returning,Instagram,Transfer,No,5
+ORD10484,2026-06-30 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,4,0.1,72000,42000,30000,Abuja,New,WhatsApp,Transfer,No,5
+ORD10608,2026-06-30 00:00:00,Leather Noir,Woody,Men,50,11500,23000,2,0.15,39100,23000,16100,Ogun,New,WhatsApp,Cash,No,4
+ORD10860,2026-06-30 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,3,0.1,44550,25500,19050,Rivers,Returning,WhatsApp,Transfer,No,5
+ORD11177,2026-06-30 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,3,0.05,54150,30000,24150,Kano,Returning,Physical Store,Transfer,No,3.5
+ORD10521,2026-06-30 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,4,0.05,76000,42000,34000,Abuja,Returning,Physical Store,USSD,No,5
+ORD10409,2026-07-01 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,5,0.05,104500,60000,44500,Oyo,Returning,Website,Card,No,4
+ORD10348,2026-07-01 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,4,0,84000,44000,40000,Lagos,New,Website,Card,No,4.5
+ORD10342,2026-07-01 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,5,0.1,67500,37500,30000,Kano,Returning,Physical Store,USSD,No,4
+ORD10201,2026-07-01 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,4,0.1,79200,48000,31200,Lagos,New,WhatsApp,USSD,No,3
+ORD10260,2026-07-02 00:00:00,Leather Noir,Woody,Men,50,11500,23000,2,0,46000,23000,23000,Ogun,New,Website,Card,No,3.5
+ORD10763,2026-07-02 00:00:00,Leather Noir,Woody,Men,50,11500,23000,3,0.1,62100,34500,27600,Rivers,New,Website,USSD,No,4
+ORD10060,2026-07-03 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,2,0,27000,13000,14000,Abuja,Returning,Website,USSD,No,4
+ORD11102,2026-07-03 00:00:00,Royal Musk,Musk,Men,50,9000,18000,2,0.1,32400,18000,14400,Lagos,New,Physical Store,Cash,No,4
+ORD11168,2026-07-03 00:00:00,Royal Musk,Musk,Men,50,9000,18000,3,0.1,48600,27000,21600,Delta,Returning,Instagram,Transfer,No,5
+ORD10662,2026-07-04 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0.05,14250,7500,6750,Ogun,New,Instagram,Card,Yes,4
+ORD10841,2026-07-04 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,2,0,40000,21000,19000,Kano,Returning,WhatsApp,Transfer,No,4.5
+ORD10937,2026-07-04 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,2,0.05,38000,21000,17000,Abuja,Returning,Instagram,Card,No,4.5
+ORD11100,2026-07-05 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0.05,26600,14000,12600,Delta,New,Physical Store,Transfer,No,5
+ORD10869,2026-07-05 00:00:00,Leather Noir,Woody,Men,50,11500,23000,2,0,46000,23000,23000,Lagos,Returning,WhatsApp,Card,No,5
+ORD11060,2026-07-05 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0.15,12750,7500,5250,Edo,New,Jumia,Card,No,5
+ORD10634,2026-07-05 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0,18000,9000,9000,Rivers,New,Website,Card,No,4.5
+ORD11158,2026-07-05 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0.05,39900,22000,17900,Ogun,New,WhatsApp,Card,No,4
+ORD10962,2026-07-05 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0.05,19950,11000,8950,Edo,New,WhatsApp,Transfer,No,3.5
+ORD10870,2026-07-06 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0,13500,6500,7000,Delta,Returning,Jumia,Transfer,No,4.5
+ORD10389,2026-07-06 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,2,0,27000,13000,14000,Lagos,Returning,Instagram,Transfer,No,4
+ORD10490,2026-07-06 00:00:00,Leather Noir,Woody,Men,50,11500,23000,2,0.05,43700,23000,20700,Kaduna,New,Instagram,USSD,No,4.5
+ORD10258,2026-07-07 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,2,0,30000,15000,15000,Lagos,Returning,Website,Transfer,No,4
+ORD10257,2026-07-07 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0,21000,11000,10000,Oyo,Returning,Instagram,Transfer,No,3.5
+ORD10678,2026-07-07 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,4,0,76000,40000,36000,Lagos,New,Physical Store,USSD,No,4.5
+ORD10913,2026-07-07 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0.05,41800,24000,17800,Delta,Returning,Website,Cash,No,5
+ORD10117,2026-07-07 00:00:00,Royal Musk,Musk,Men,50,9000,18000,3,0.05,51300,27000,24300,Lagos,Returning,Physical Store,Transfer,No,4.5
+ORD11176,2026-07-08 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0,44000,24000,20000,Kaduna,New,Instagram,USSD,No,3.5
+ORD11132,2026-07-08 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0,20000,10500,9500,Enugu,New,Jumia,Transfer,No,5
+ORD10519,2026-07-08 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,5,0,95000,50000,45000,Edo,Returning,Physical Store,Transfer,No,4
+ORD11165,2026-07-09 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0,21000,11000,10000,Edo,New,Physical Store,Transfer,No,5
+ORD11014,2026-07-09 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0,14000,7000,7000,Kano,New,Instagram,Card,No,4.5
+ORD10653,2026-07-09 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,3,0,57000,30000,27000,Enugu,Returning,Jumia,Transfer,No,5
+ORD10384,2026-07-09 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,2,0,30000,15000,15000,Kaduna,New,Instagram,Transfer,No,5
+ORD10047,2026-07-09 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,3,0.1,54000,31500,22500,Abuja,New,Instagram,Card,No,4.5
+ORD10948,2026-07-10 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0,18000,9000,9000,Lagos,New,WhatsApp,Transfer,No,4
+ORD10818,2026-07-10 00:00:00,Royal Musk,Musk,Men,50,9000,18000,2,0,36000,18000,18000,Abuja,Returning,WhatsApp,Transfer,Yes,3
+ORD10362,2026-07-10 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,5,0.1,94500,55000,39500,Oyo,New,WhatsApp,Transfer,No,4
+ORD10879,2026-07-10 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,3,0,60000,31500,28500,Lagos,New,Instagram,Cash,No,4
+ORD11150,2026-07-11 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0.1,18900,11000,7900,Rivers,New,Website,Transfer,No,4
+ORD11193,2026-07-11 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0.05,21850,11500,10350,Lagos,Returning,Instagram,Card,No,4
+ORD11136,2026-07-11 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,2,0.05,36100,20000,16100,Lagos,Returning,WhatsApp,Card,No,3
+ORD10301,2026-07-12 00:00:00,Royal Musk,Musk,Men,50,9000,18000,3,0.05,51300,27000,24300,Abuja,New,Instagram,USSD,Yes,3.5
+ORD10987,2026-07-12 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,3,0.05,38475,19500,18975,Oyo,Returning,Instagram,Transfer,No,5
+ORD11064,2026-07-12 00:00:00,Royal Musk,Musk,Men,50,9000,18000,2,0.05,34200,18000,16200,Delta,New,Instagram,Card,No,4.5
+ORD10097,2026-07-12 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0.05,14250,7500,6750,Lagos,Returning,Instagram,Transfer,No,4
+ORD10808,2026-07-12 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0.05,14250,7500,6750,Enugu,New,Instagram,Transfer,No,4
+ORD10635,2026-07-14 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0,16500,8500,8000,Rivers,Returning,Instagram,USSD,No,5
+ORD11183,2026-07-14 00:00:00,Royal Musk,Musk,Men,50,9000,18000,3,0,54000,27000,27000,Ogun,Returning,Instagram,Cash,Yes,4
+ORD10527,2026-07-14 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,2,0.05,28500,15000,13500,Kano,New,Physical Store,Card,No,5
+ORD10740,2026-07-14 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0.05,15675,8500,7175,Abuja,New,Physical Store,Cash,No,3.5
+ORD10440,2026-07-14 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0,13500,6500,7000,Enugu,New,Jumia,Transfer,No,4.5
+ORD11127,2026-07-14 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0.1,12600,7000,5600,Lagos,New,WhatsApp,Card,No,3.5
+ORD10162,2026-07-15 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,3,0,66000,36000,30000,Ogun,Returning,Website,Transfer,No,4
+ORD10225,2026-07-15 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0,28000,14000,14000,Lagos,Returning,Physical Store,Transfer,No,4.5
+ORD10809,2026-07-15 00:00:00,Leather Noir,Woody,Men,50,11500,23000,2,0.1,41400,23000,18400,Rivers,New,Physical Store,Transfer,No,4
+ORD10381,2026-07-16 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0,20000,10500,9500,Lagos,Returning,Physical Store,Transfer,No,3.5
+ORD10858,2026-07-16 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0.1,12600,7000,5600,Lagos,Returning,Website,Transfer,No,5
+ORD10534,2026-07-17 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0.15,11475,6500,4975,Edo,Returning,Physical Store,Card,No,4.5
+ORD11123,2026-07-17 00:00:00,Royal Musk,Musk,Men,50,9000,18000,2,0.1,32400,18000,14400,Oyo,Returning,Physical Store,Transfer,No,3.5
+ORD10599,2026-07-17 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0,16500,8500,8000,Ogun,New,Instagram,Cash,No,5
+ORD11078,2026-07-17 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,3,0,57000,30000,27000,Enugu,Returning,WhatsApp,Transfer,No,4.5
+ORD10207,2026-07-17 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0.05,17100,9000,8100,Enugu,New,Instagram,Card,No,3.5
+ORD10666,2026-07-17 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0,16500,8500,8000,Delta,New,WhatsApp,USSD,No,5
+ORD10683,2026-07-17 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,4,0.1,72000,42000,30000,Lagos,New,Physical Store,Card,No,4
+ORD10264,2026-07-17 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,2,0.1,27000,15000,12000,Abuja,Returning,Instagram,Cash,Yes,4
+ORD10017,2026-07-17 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0.05,19000,10500,8500,Abuja,Returning,Physical Store,Transfer,No,4.5
+ORD10979,2026-07-18 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0.1,25200,14000,11200,Enugu,Returning,WhatsApp,Cash,No,3
+ORD10110,2026-07-18 00:00:00,Leather Noir,Woody,Men,50,11500,23000,3,0.05,65550,34500,31050,Edo,New,Jumia,Card,No,5
+ORD10459,2026-07-18 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0,19000,10000,9000,Abuja,New,Instagram,USSD,No,3
+ORD10126,2026-07-18 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0,19000,10000,9000,Rivers,New,Instagram,USSD,No,4.5
+ORD11161,2026-07-18 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0,44000,24000,20000,Kano,New,Instagram,USSD,No,4
+ORD10553,2026-07-18 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0.05,21850,11500,10350,Abuja,New,Instagram,Transfer,No,4.5
+ORD10276,2026-07-18 00:00:00,Royal Musk,Musk,Men,50,9000,18000,2,0.05,34200,18000,16200,Lagos,Returning,Physical Store,Card,No,4.5
+ORD10422,2026-07-19 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0.1,25200,14000,11200,Edo,New,WhatsApp,Card,No,4
+ORD10496,2026-07-19 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0.05,19950,11000,8950,Kaduna,Returning,Website,Cash,No,5
+ORD11068,2026-07-19 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,2,0,40000,21000,19000,Lagos,New,WhatsApp,Cash,No,5
+ORD11179,2026-07-20 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,2,0,30000,15000,15000,Ogun,Returning,Physical Store,USSD,No,5
+ORD10099,2026-07-20 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0,28000,14000,14000,Kaduna,New,Instagram,Cash,No,5
+ORD10639,2026-07-20 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,2,0.05,38000,21000,17000,Lagos,Returning,Website,Card,No,5
+ORD10223,2026-07-20 00:00:00,Royal Musk,Musk,Men,50,9000,18000,4,0,72000,36000,36000,Enugu,Returning,Website,Card,No,4
+ORD10094,2026-07-20 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,2,0.05,25650,13000,12650,Lagos,Returning,Jumia,Card,No,4
+ORD10984,2026-07-20 00:00:00,Royal Musk,Musk,Men,50,9000,18000,3,0.1,48600,27000,21600,Lagos,New,Website,Card,No,3.5
+ORD10227,2026-07-20 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0,18000,9000,9000,Delta,Returning,Physical Store,USSD,No,4.5
+ORD11164,2026-07-20 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0,13500,6500,7000,Edo,Returning,WhatsApp,Cash,No,4
+ORD10093,2026-07-21 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0.1,18900,11000,7900,Oyo,Returning,WhatsApp,Transfer,No,3.5
+ORD11046,2026-07-21 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,2,0.05,36100,20000,16100,Abuja,Returning,Physical Store,Transfer,No,4.5
+ORD10306,2026-07-21 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,3,0.1,59400,36000,23400,Delta,New,WhatsApp,USSD,No,5
+ORD10395,2026-07-21 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0.05,31350,17000,14350,Rivers,New,WhatsApp,Card,No,5
+ORD10824,2026-07-21 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0,33000,17000,16000,Rivers,New,Instagram,Transfer,No,3.5
+ORD10675,2026-07-21 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0.1,39600,24000,15600,Abuja,New,Website,USSD,No,3
+ORD10194,2026-07-21 00:00:00,Royal Musk,Musk,Men,50,9000,18000,3,0.05,51300,27000,24300,Rivers,New,Physical Store,Transfer,No,4
+ORD10660,2026-07-21 00:00:00,Leather Noir,Woody,Men,50,11500,23000,2,0.05,43700,23000,20700,Rivers,New,WhatsApp,Transfer,No,5
+ORD10669,2026-07-22 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0,20000,10500,9500,Lagos,New,Physical Store,Card,No,5
+ORD11085,2026-07-22 00:00:00,Royal Musk,Musk,Men,50,9000,18000,2,0,36000,18000,18000,Rivers,New,Physical Store,Cash,No,4.5
+ORD10251,2026-07-22 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0.05,26600,14000,12600,Delta,New,Physical Store,USSD,No,4.5
+ORD10254,2026-07-23 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0.1,20700,11500,9200,Kaduna,New,Instagram,USSD,No,4.5
+ORD10262,2026-07-23 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0.1,18900,11000,7900,Abuja,New,Instagram,Cash,No,4.5
+ORD10340,2026-07-23 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,3,0.05,57000,31500,25500,Lagos,New,WhatsApp,Transfer,No,3.5
+ORD10365,2026-07-24 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0.1,12600,7000,5600,Lagos,New,Website,Transfer,No,4.5
+ORD11128,2026-07-24 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0.05,17100,9000,8100,Kaduna,New,WhatsApp,Transfer,No,4
+ORD11192,2026-07-24 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0.1,37800,22000,15800,Ogun,New,Physical Store,USSD,No,4
+ORD10059,2026-07-24 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,3,0,45000,22500,22500,Lagos,New,WhatsApp,Card,No,4.5
+ORD10628,2026-07-25 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0.05,20900,12000,8900,Lagos,New,Physical Store,Transfer,No,4.5
+ORD10396,2026-07-25 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0,21000,11000,10000,Kano,Returning,WhatsApp,Cash,No,5
+ORD10620,2026-07-25 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0,13500,6500,7000,Oyo,New,Instagram,Transfer,No,5
+ORD10170,2026-07-25 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0,20000,10500,9500,Edo,Returning,Physical Store,Transfer,No,4
+ORD10787,2026-07-25 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0.05,41800,24000,17800,Abuja,New,Physical Store,Transfer,No,5
+ORD10657,2026-07-25 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0.05,19000,10500,8500,Abuja,New,Instagram,Transfer,No,4
+ORD10904,2026-07-26 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0,16500,8500,8000,Rivers,New,WhatsApp,Card,No,4.5
+ORD10770,2026-07-26 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0,13500,6500,7000,Kaduna,New,WhatsApp,USSD,No,4.5
+ORD11119,2026-07-26 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0.05,14250,7500,6750,Lagos,Returning,Instagram,USSD,No,4
+ORD11021,2026-07-26 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,2,0,27000,13000,14000,Enugu,New,Physical Store,Card,No,4
+ORD10319,2026-07-26 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0,28000,14000,14000,Abuja,Returning,Instagram,Transfer,No,5
+ORD10329,2026-07-26 00:00:00,Leather Noir,Woody,Men,50,11500,23000,3,0.05,65550,34500,31050,Delta,New,Physical Store,USSD,No,4.5
+ORD11066,2026-07-27 00:00:00,Leather Noir,Woody,Men,50,11500,23000,4,0.05,87400,46000,41400,Lagos,New,WhatsApp,Cash,No,3.5
+ORD10563,2026-07-27 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0,22000,12000,10000,Ogun,New,Website,Cash,No,5
+ORD10489,2026-07-28 00:00:00,Leather Noir,Woody,Men,50,11500,23000,2,0.1,41400,23000,18400,Abuja,Returning,Website,Card,No,4.5
+ORD10335,2026-07-28 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0.05,39900,22000,17900,Ogun,New,Physical Store,Transfer,No,4.5
+ORD10982,2026-07-28 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0.05,19000,10500,8500,Delta,New,WhatsApp,Transfer,Yes,4
+ORD10128,2026-07-28 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0.05,17100,9000,8100,Lagos,New,WhatsApp,Card,No,5
+ORD10704,2026-07-28 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0.1,19800,12000,7800,Oyo,Returning,Jumia,Cash,No,5
+ORD10697,2026-07-28 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0.05,14250,7500,6750,Ogun,New,Instagram,Cash,Yes,5
+ORD10922,2026-07-28 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0,16500,8500,8000,Rivers,New,Jumia,Transfer,No,3.5
+ORD10472,2026-07-28 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,2,0.05,28500,15000,13500,Ogun,Returning,Website,Card,No,5
+ORD10468,2026-07-28 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,2,0,30000,15000,15000,Ogun,Returning,Physical Store,Cash,No,4.5
+ORD10595,2026-07-29 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,3,0,66000,36000,30000,Edo,New,Website,Transfer,No,4.5
+ORD10436,2026-07-29 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0,19000,10000,9000,Lagos,New,Instagram,Transfer,No,5
+ORD10221,2026-07-29 00:00:00,Leather Noir,Woody,Men,50,11500,23000,3,0.05,65550,34500,31050,Rivers,Returning,Instagram,Transfer,No,4.5
+ORD10279,2026-07-29 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,2,0,27000,13000,14000,Oyo,New,WhatsApp,Card,No,5
+ORD10237,2026-07-29 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0.05,39900,22000,17900,Lagos,New,Instagram,Transfer,No,4.5
+ORD10997,2026-07-29 00:00:00,Royal Musk,Musk,Men,50,9000,18000,3,0,54000,27000,27000,Lagos,New,Instagram,Card,No,5
+ORD10374,2026-07-29 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,5,0,82500,42500,40000,Edo,New,Jumia,USSD,No,3.5
+ORD10536,2026-07-30 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0,18000,9000,9000,Rivers,New,Website,USSD,No,5
+ORD10830,2026-07-30 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,2,0,38000,20000,18000,Lagos,Returning,WhatsApp,Card,No,3
+ORD10674,2026-07-30 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0,18000,9000,9000,Kano,New,Website,Cash,No,5
+ORD10266,2026-07-30 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0.1,39600,24000,15600,Rivers,New,WhatsApp,USSD,No,4.5
+ORD10578,2026-07-30 00:00:00,Leather Noir,Woody,Men,50,11500,23000,2,0,46000,23000,23000,Enugu,Returning,WhatsApp,Card,No,3.5
+ORD10070,2026-07-31 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0.05,15675,8500,7175,Ogun,New,Instagram,Card,No,4
+ORD11053,2026-07-31 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,4,0.05,83600,48000,35600,Oyo,Returning,WhatsApp,Card,No,4
+ORD10051,2026-07-31 00:00:00,Leather Noir,Woody,Men,50,11500,23000,5,0.05,109250,57500,51750,Oyo,New,Instagram,Transfer,No,4
+ORD10293,2026-07-31 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0,42000,22000,20000,Lagos,New,Physical Store,USSD,No,3
+ORD10694,2026-08-01 00:00:00,Royal Musk,Musk,Men,50,9000,18000,2,0,36000,18000,18000,Enugu,Returning,Website,Card,No,5
+ORD10136,2026-08-01 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0,18000,9000,9000,Kano,Returning,WhatsApp,Transfer,No,4.5
+ORD10177,2026-08-01 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,3,0,42000,21000,21000,Enugu,Returning,Instagram,Transfer,No,4
+ORD10074,2026-08-01 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,3,0.1,59400,36000,23400,Lagos,New,Website,USSD,No,5
+ORD10668,2026-08-01 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0,14000,7000,7000,Kano,Returning,Physical Store,Transfer,No,4.5
+ORD10295,2026-08-01 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,4,0.1,75600,44000,31600,Oyo,New,WhatsApp,Transfer,Yes,5
+ORD11042,2026-08-02 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,3,0,42000,21000,21000,Enugu,Returning,Instagram,Transfer,No,4.5
+ORD10600,2026-08-02 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0,18000,9000,9000,Edo,New,Jumia,Transfer,No,4
+ORD10606,2026-08-02 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0.05,17100,9000,8100,Abuja,Returning,Physical Store,Transfer,No,5
+ORD10230,2026-08-02 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0.15,11900,7000,4900,Lagos,New,WhatsApp,Transfer,No,4
+ORD10446,2026-08-02 00:00:00,Royal Musk,Musk,Men,50,9000,18000,4,0.05,68400,36000,32400,Lagos,Returning,WhatsApp,Cash,No,4.5
+ORD10378,2026-08-02 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0,19000,10000,9000,Lagos,New,Instagram,Cash,No,5
+ORD10323,2026-08-02 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0.1,37800,22000,15800,Abuja,New,WhatsApp,Cash,No,4
+ORD10001,2026-08-03 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,4,0.05,79800,44000,35800,Lagos,Returning,Website,Cash,No,4
+ORD10794,2026-08-03 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0.15,17000,10500,6500,Lagos,Returning,Website,Cash,No,5
+ORD11147,2026-08-03 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0,18000,9000,9000,Lagos,Returning,Website,USSD,No,4.5
+ORD10684,2026-08-03 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0.1,17100,10000,7100,Kaduna,Returning,Physical Store,Cash,No,4.5
+ORD10086,2026-08-03 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,5,0.05,104500,60000,44500,Abuja,Returning,WhatsApp,Card,No,3.5
+ORD10413,2026-08-04 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0,19000,10000,9000,Abuja,Returning,WhatsApp,Transfer,No,5
+ORD10169,2026-08-04 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,4,0,76000,40000,36000,Oyo,Returning,Instagram,Transfer,No,4
+ORD10575,2026-08-04 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0.05,31350,17000,14350,Rivers,New,Instagram,Transfer,No,4
+ORD10116,2026-08-04 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0.05,31350,17000,14350,Kaduna,Returning,Physical Store,USSD,No,4.5
+ORD10041,2026-08-05 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0,18000,9000,9000,Abuja,Returning,WhatsApp,Transfer,No,4.5
+ORD10007,2026-08-05 00:00:00,Leather Noir,Woody,Men,50,11500,23000,3,0.05,65550,34500,31050,Abuja,New,Instagram,Cash,No,4.5
+ORD11197,2026-08-05 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0.1,12150,6500,5650,Oyo,New,Instagram,Transfer,No,4.5
+ORD10039,2026-08-05 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0.05,13300,7000,6300,Kaduna,New,Instagram,Cash,No,5
+ORD10414,2026-08-05 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0.05,17100,9000,8100,Abuja,Returning,Website,Card,No,5
+ORD10430,2026-08-06 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0.05,13300,7000,6300,Lagos,New,WhatsApp,Transfer,No,4.5
+ORD10080,2026-08-06 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,4,0.05,72200,40000,32200,Oyo,New,Website,Transfer,No,4.5
+ORD11010,2026-08-07 00:00:00,Leather Noir,Woody,Men,50,11500,23000,2,0.05,43700,23000,20700,Lagos,Returning,Physical Store,Cash,No,4.5
+ORD10735,2026-08-07 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0,18000,9000,9000,Lagos,New,Website,Transfer,No,4.5
+ORD10747,2026-08-07 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0.05,13300,7000,6300,Edo,Returning,Physical Store,Cash,No,3.5
+ORD10702,2026-08-07 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0,15000,7500,7500,Rivers,New,WhatsApp,Cash,No,5
+ORD11171,2026-08-07 00:00:00,Royal Musk,Musk,Men,50,9000,18000,4,0,72000,36000,36000,Lagos,Returning,Instagram,Transfer,No,5
+ORD10533,2026-08-07 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0.05,21850,11500,10350,Rivers,Returning,Jumia,Card,No,5
+ORD10609,2026-08-07 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0,15000,7500,7500,Delta,Returning,Website,Card,No,4.5
+ORD10308,2026-08-07 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,2,0.05,38000,21000,17000,Lagos,Returning,WhatsApp,Transfer,No,3.5
+ORD10307,2026-08-07 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0.15,37400,24000,13400,Ogun,New,Website,Card,No,4
+ORD10623,2026-08-08 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,3,0.1,37800,21000,16800,Lagos,New,Instagram,Transfer,No,4
+ORD10692,2026-08-08 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0,22000,12000,10000,Rivers,Returning,Physical Store,Transfer,No,4
+ORD11152,2026-08-08 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0,33000,17000,16000,Lagos,New,Website,USSD,No,4.5
+ORD11151,2026-08-08 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,2,0,38000,20000,18000,Edo,New,Physical Store,Transfer,No,3.5
+ORD10866,2026-08-08 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,2,0.05,38000,21000,17000,Ogun,Returning,Instagram,Card,No,5
+ORD10382,2026-08-08 00:00:00,Royal Musk,Musk,Men,50,9000,18000,2,0,36000,18000,18000,Edo,New,Jumia,Card,No,4.5
+ORD11007,2026-08-08 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0.15,15300,9000,6300,Lagos,New,Physical Store,USSD,No,5
+ORD11107,2026-08-08 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0,22000,12000,10000,Lagos,Returning,Website,Transfer,No,4.5
+ORD10772,2026-08-08 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0.05,12825,6500,6325,Delta,New,Website,USSD,No,4
+ORD10629,2026-08-09 00:00:00,Leather Noir,Woody,Men,50,11500,23000,3,0.05,65550,34500,31050,Edo,Returning,Website,Card,Yes,3.5
+ORD11160,2026-08-09 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0,28000,14000,14000,Enugu,New,Physical Store,Transfer,No,4
+ORD10969,2026-08-09 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0,13500,6500,7000,Lagos,New,Instagram,Transfer,No,5
+ORD11088,2026-08-10 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,3,0,40500,19500,21000,Lagos,New,Website,Cash,No,4
+ORD10187,2026-08-10 00:00:00,Royal Musk,Musk,Men,50,9000,18000,2,0,36000,18000,18000,Enugu,Returning,Jumia,Transfer,Yes,4.5
+ORD10056,2026-08-10 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,2,0.1,36000,21000,15000,Kaduna,Returning,WhatsApp,Card,No,4.5
+ORD10610,2026-08-10 00:00:00,Leather Noir,Woody,Men,50,11500,23000,3,0,69000,34500,34500,Abuja,New,WhatsApp,Card,No,4
+ORD10850,2026-08-11 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0.15,15300,9000,6300,Kano,New,Website,USSD,No,5
+ORD10043,2026-08-11 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,3,0.1,54000,31500,22500,Lagos,Returning,Website,Cash,No,4.5
+ORD10505,2026-08-11 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0.1,39600,24000,15600,Oyo,New,Website,Transfer,No,5
+ORD10132,2026-08-11 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0.1,20700,11500,9200,Oyo,Returning,Physical Store,Cash,No,4.5
+ORD10215,2026-08-11 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0.05,12825,6500,6325,Rivers,New,Physical Store,Transfer,No,5
+ORD10151,2026-08-12 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0.05,19950,11000,8950,Abuja,New,Instagram,Card,No,4.5
+ORD11103,2026-08-12 00:00:00,Royal Musk,Musk,Men,50,9000,18000,2,0.1,32400,18000,14400,Kano,Returning,Website,USSD,No,5
+ORD10314,2026-08-13 00:00:00,Royal Musk,Musk,Men,50,9000,18000,3,0,54000,27000,27000,Lagos,New,Instagram,Transfer,No,3
+ORD10014,2026-08-13 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0,21000,11000,10000,Lagos,New,Jumia,Transfer,No,4.5
+ORD10876,2026-08-13 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0.1,19800,12000,7800,Edo,Returning,Website,Card,No,4.5
+ORD10696,2026-08-13 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,3,0.05,39900,21000,18900,Oyo,New,Instagram,Transfer,No,5
+ORD10637,2026-08-13 00:00:00,Royal Musk,Musk,Men,50,9000,18000,2,0.1,32400,18000,14400,Lagos,Returning,Instagram,Transfer,No,5
+ORD10057,2026-08-14 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,2,0.1,36000,21000,15000,Abuja,Returning,WhatsApp,Card,No,4.5
+ORD10114,2026-08-14 00:00:00,Leather Noir,Woody,Men,50,11500,23000,3,0.1,62100,34500,27600,Abuja,New,Instagram,Cash,No,4.5
+ORD10511,2026-08-14 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,2,0.05,36100,20000,16100,Abuja,New,WhatsApp,Cash,No,4.5
+ORD10550,2026-08-15 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0.05,26600,14000,12600,Kaduna,Returning,Jumia,USSD,No,5
+ORD10664,2026-08-15 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0,21000,11000,10000,Oyo,Returning,Instagram,Cash,No,4.5
+ORD10652,2026-08-16 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,5,0.1,74250,42500,31750,Oyo,New,WhatsApp,USSD,No,4.5
+ORD10507,2026-08-16 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0,22000,12000,10000,Lagos,Returning,Instagram,Transfer,No,3.5
+ORD10182,2026-08-16 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0,22000,12000,10000,Abuja,Returning,Website,Transfer,Yes,4.5
+ORD10100,2026-08-17 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,2,0,27000,13000,14000,Lagos,Returning,Instagram,Transfer,No,5
+ORD10434,2026-08-17 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0.15,11475,6500,4975,Kaduna,Returning,WhatsApp,USSD,No,5
+ORD10067,2026-08-17 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0.1,18900,11000,7900,Delta,New,Instagram,Transfer,No,4
+ORD11182,2026-08-17 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0.05,17100,9000,8100,Enugu,Returning,Website,Card,No,4.5
+ORD10361,2026-08-17 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0.05,13300,7000,6300,Ogun,Returning,Website,USSD,No,4
+ORD11194,2026-08-17 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,2,0.1,24300,13000,11300,Rivers,New,Physical Store,Cash,No,4.5
+ORD10562,2026-08-18 00:00:00,Leather Noir,Woody,Men,50,11500,23000,5,0.05,109250,57500,51750,Abuja,New,WhatsApp,Card,No,4.5
+ORD10644,2026-08-18 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,2,0.15,34000,21000,13000,Oyo,New,Physical Store,Transfer,No,3.5
+ORD11075,2026-08-18 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0.05,14250,7500,6750,Lagos,Returning,Instagram,Transfer,No,4.5
+ORD10723,2026-08-19 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0,28000,14000,14000,Ogun,New,Instagram,Card,No,4
+ORD10893,2026-08-19 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0,21000,11000,10000,Oyo,New,Instagram,USSD,No,5
+ORD10013,2026-08-19 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0,13500,6500,7000,Delta,New,Website,Transfer,No,4
+ORD10175,2026-08-19 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,2,0,40000,21000,19000,Kano,Returning,WhatsApp,Card,No,4.5
+ORD10180,2026-08-20 00:00:00,Leather Noir,Woody,Men,50,11500,23000,3,0,69000,34500,34500,Ogun,Returning,Website,USSD,No,5
+ORD10424,2026-08-20 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0,18000,9000,9000,Oyo,New,Jumia,Transfer,No,5
+ORD10566,2026-08-20 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0,19000,10000,9000,Lagos,New,Instagram,Transfer,No,4.5
+ORD11022,2026-08-20 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0,21000,11000,10000,Abuja,New,Instagram,Transfer,No,4
+ORD10463,2026-08-20 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0,23000,11500,11500,Kaduna,New,Website,Card,No,4.5
+ORD11121,2026-08-22 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,3,0.05,62700,36000,26700,Oyo,New,WhatsApp,Transfer,Yes,4.5
+ORD10699,2026-08-22 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,3,0,66000,36000,30000,Oyo,New,WhatsApp,Card,No,4.5
+ORD11140,2026-08-23 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0,23000,11500,11500,Abuja,New,Physical Store,,No,3
+ORD10785,2026-08-23 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0.05,19950,11000,8950,Oyo,New,WhatsApp,Transfer,No,5
+ORD10743,2026-08-23 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0,28000,14000,14000,Lagos,Returning,Jumia,Transfer,No,4.5
+ORD10795,2026-08-23 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0.05,39900,22000,17900,Rivers,New,WhatsApp,USSD,No,4.5
+ORD10188,2026-08-24 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0.1,18000,10500,7500,Lagos,New,Physical Store,Transfer,No,5
+ORD10127,2026-08-24 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,3,0.05,47025,25500,21525,Lagos,New,Instagram,Transfer,No,3.5
+ORD10267,2026-08-24 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0,13500,6500,7000,Lagos,Returning,Instagram,Card,No,4
+ORD10138,2026-08-25 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0.05,19950,11000,8950,Ogun,Returning,Instagram,Cash,No,4
+ORD10453,2026-08-25 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0,16500,8500,8000,Lagos,Returning,WhatsApp,Card,No,4
+ORD10288,2026-08-25 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,2,0,30000,15000,15000,Lagos,New,Physical Store,Card,Yes,3.5
+ORD11079,2026-08-26 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0.05,39900,22000,17900,Ogun,New,Instagram,USSD,No,4
+ORD10034,2026-08-26 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0,20000,10500,9500,Edo,New,Instagram,Cash,No,3
+ORD10064,2026-08-26 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0,18000,9000,9000,Kano,New,Physical Store,Transfer,No,4.5
+ORD11181,2026-08-27 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0,22000,12000,10000,Abuja,New,Website,USSD,No,4
+ORD11016,2026-08-27 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0,44000,24000,20000,Enugu,New,Physical Store,Card,No,5
+ORD10526,2026-08-27 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0,42000,22000,20000,Abuja,Returning,WhatsApp,Card,No,4.5
+ORD10953,2026-08-27 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0,22000,12000,10000,Abuja,New,Website,Card,No,4.5
+ORD10823,2026-08-29 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,3,0,63000,33000,30000,Abuja,Returning,Website,Cash,No,4
+ORD10011,2026-08-29 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0,18000,9000,9000,Abuja,New,Jumia,Transfer,No,5
+ORD10398,2026-08-29 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,4,0,60000,30000,30000,Lagos,Returning,Physical Store,USSD,No,3
+ORD10549,2026-08-29 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0,44000,24000,20000,Lagos,Returning,Instagram,Transfer,No,4
+ORD10111,2026-08-29 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0,33000,17000,16000,Edo,Returning,Physical Store,Card,No,4
+ORD11044,2026-08-29 00:00:00,Royal Musk,Musk,Men,50,9000,18000,2,0.05,34200,18000,16200,Edo,New,Instagram,Card,No,4
+ORD10052,2026-08-30 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0.05,21850,11500,10350,Oyo,New,WhatsApp,Cash,No,3.5
+ORD10130,2026-08-30 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,2,0.05,36100,20000,16100,Abuja,New,Instagram,Transfer,No,4.5
+ORD10380,2026-08-30 00:00:00,Leather Noir,Woody,Men,50,11500,23000,3,0.05,65550,34500,31050,Oyo,Returning,Instagram,Transfer,No,5
+ORD10120,2026-08-30 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0,15000,7500,7500,Edo,New,Physical Store,Cash,No,5
+ORD10715,2026-08-30 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0.05,15675,8500,7175,Ogun,Returning,Instagram,Card,No,4.5
+ORD10320,2026-08-30 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0.05,21850,11500,10350,Delta,Returning,Physical Store,Transfer,No,5
+ORD10415,2026-08-31 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0,28000,14000,14000,Oyo,New,Physical Store,Transfer,No,4
+ORD10705,2026-08-31 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0,33000,17000,16000,Rivers,New,Website,Card,Yes,4
+ORD11134,2026-08-31 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0,21000,11000,10000,Lagos,New,Jumia,Transfer,No,4.5
+ORD10616,2026-09-01 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,3,0,57000,30000,27000,Abuja,Returning,Website,Cash,No,4.5
+ORD10791,2026-09-01 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,3,0,49500,25500,24000,Abuja,Returning,Instagram,Card,No,4
+ORD11024,2026-09-01 00:00:00,Royal Musk,Musk,Men,50,9000,18000,2,0,36000,18000,18000,Lagos,Returning,Instagram,Transfer,No,4
+ORD11045,2026-09-01 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0.1,14850,8500,6350,Abuja,New,Website,Transfer,No,4
+ORD10520,2026-09-01 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0,22000,12000,10000,Abuja,Returning,Instagram,USSD,No,4.5
+ORD11029,2026-09-02 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,5,0,100000,52500,47500,Kaduna,Returning,Website,Transfer,No,4
+ORD10107,2026-09-02 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,5,0,100000,52500,47500,Ogun,Returning,WhatsApp,Transfer,No,4
+ORD10796,2026-09-02 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0,22000,12000,10000,Kaduna,New,Physical Store,Cash,No,3.5
+ORD11116,2026-09-02 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0,20000,10500,9500,Enugu,New,WhatsApp,USSD,No,3
+ORD11093,2026-09-03 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0.1,18000,10500,7500,Ogun,New,WhatsApp,Card,No,5
+ORD10027,2026-09-03 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0.05,21850,11500,10350,Abuja,New,Physical Store,Cash,No,4.5
+ORD10399,2026-09-03 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0,20000,10500,9500,Oyo,New,Physical Store,Transfer,No,4
+ORD10035,2026-09-03 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0,20000,10500,9500,Rivers,New,WhatsApp,Card,No,3
+ORD10528,2026-09-03 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0,44000,24000,20000,Oyo,New,Jumia,Card,No,4
+ORD10986,2026-09-03 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0.05,19000,10500,8500,Lagos,New,Physical Store,Card,No,4.5
+ORD10537,2026-09-03 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0.05,19000,10500,8500,Oyo,New,WhatsApp,Transfer,No,4.5
+ORD10698,2026-09-03 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0.05,39900,22000,17900,Abuja,Returning,Website,Transfer,No,5
+ORD11131,2026-09-04 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0,14000,7000,7000,Enugu,New,Instagram,Transfer,No,3.5
+ORD10036,2026-09-04 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,3,0.05,38475,19500,18975,Edo,Returning,Website,Cash,No,3.5
+ORD10058,2026-09-04 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0.05,14250,7500,6750,Ogun,Returning,Physical Store,Card,No,4
+ORD11105,2026-09-04 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,2,0.15,22950,13000,9950,Ogun,New,Jumia,Transfer,No,5
+ORD10838,2026-09-04 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,3,0.1,36450,19500,16950,Lagos,Returning,Instagram,Cash,No,4
+ORD11167,2026-09-04 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0,13500,6500,7000,Lagos,Returning,Instagram,USSD,No,5
+ORD10736,2026-09-04 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0.15,18700,12000,6700,Edo,New,Website,Cash,No,5
+ORD10478,2026-09-05 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0.05,14250,7500,6750,Abuja,New,WhatsApp,Cash,No,5
+ORD11020,2026-09-05 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,2,0.05,28500,15000,13500,Lagos,New,WhatsApp,Card,No,4
+ORD10278,2026-09-05 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0.05,41800,24000,17800,Lagos,Returning,Website,Transfer,No,4.5
+ORD10754,2026-09-05 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0.1,25200,14000,11200,Lagos,Returning,Physical Store,Transfer,No,5
+ORD10803,2026-09-06 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0,14000,7000,7000,Kano,Returning,WhatsApp,Transfer,No,4.5
+ORD10778,2026-09-06 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,2,0,27000,13000,14000,Ogun,Returning,Jumia,Card,No,4
+ORD11034,2026-09-07 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0.05,18050,10000,8050,Lagos,Returning,Jumia,Transfer,No,4
+ORD10875,2026-09-07 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0.05,12825,6500,6325,Enugu,Returning,Physical Store,Transfer,No,4
+ORD11101,2026-09-07 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0,21000,11000,10000,Delta,Returning,WhatsApp,Card,No,3
+ORD10891,2026-09-07 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0,33000,17000,16000,Lagos,New,WhatsApp,Transfer,No,5
+ORD10137,2026-09-07 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,5,0,105000,55000,50000,Kano,New,Physical Store,USSD,No,4.5
+ORD11170,2026-09-08 00:00:00,Leather Noir,Woody,Men,50,11500,23000,5,0,115000,57500,57500,Delta,New,Instagram,Transfer,No,5
+ORD10438,2026-09-08 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0.05,18050,10000,8050,Rivers,New,WhatsApp,Transfer,No,4.5
+ORD10475,2026-09-08 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0,33000,17000,16000,Lagos,Returning,Jumia,Card,No,5
+ORD10514,2026-09-08 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,3,0.05,38475,19500,18975,Abuja,New,Jumia,Transfer,No,4
+ORD11061,2026-09-08 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0,16500,8500,8000,Abuja,New,Jumia,USSD,No,4
+ORD10084,2026-09-08 00:00:00,Leather Noir,Woody,Men,50,11500,23000,1,0.05,21850,11500,10350,Lagos,New,WhatsApp,Transfer,No,4.5
+ORD11006,2026-09-08 00:00:00,Leather Noir,Woody,Men,50,11500,23000,2,0.05,43700,23000,20700,Lagos,Returning,Jumia,Card,No,4.5
+ORD10825,2026-09-09 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0,14000,7000,7000,Kano,New,Instagram,Cash,No,3
+ORD10539,2026-09-09 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,3,0,63000,33000,30000,Lagos,New,WhatsApp,Card,No,4
+ORD10833,2026-09-09 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0.1,18900,11000,7900,Enugu,Returning,Website,Transfer,No,4.5
+ORD10545,2026-09-09 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,2,0.1,24300,13000,11300,Abuja,New,Instagram,Card,No,3
+ORD10827,2026-09-10 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0,20000,10500,9500,Oyo,New,Website,Cash,No,4.5
+ORD10817,2026-09-10 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,5,0,82500,42500,40000,Edo,New,WhatsApp,Transfer,No,3.5
+ORD11143,2026-09-10 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,5,0,105000,55000,50000,Ogun,Returning,Instagram,Cash,No,4
+ORD10996,2026-09-10 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0,22000,12000,10000,Rivers,New,Website,Card,No,4.5
+ORD10500,2026-09-11 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0,21000,11000,10000,Lagos,Returning,Physical Store,USSD,No,4
+ORD10400,2026-09-11 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0.05,14250,7500,6750,Lagos,New,WhatsApp,Transfer,No,4
+ORD10897,2026-09-11 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0,21000,11000,10000,Kaduna,New,Physical Store,Transfer,No,3.5
+ORD10783,2026-09-11 00:00:00,Royal Musk,Musk,Men,50,9000,18000,2,0,36000,18000,18000,Lagos,Returning,WhatsApp,Cash,No,4
+ORD10292,2026-09-11 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,2,0,30000,15000,15000,Oyo,New,Website,Transfer,No,3
+ORD10284,2026-09-12 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,3,0.1,44550,25500,19050,Rivers,New,WhatsApp,Cash,No,4.5
+ORD10978,2026-09-12 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0.05,39900,22000,17900,Lagos,New,Physical Store,Cash,No,4
+ORD10542,2026-09-12 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0,22000,12000,10000,Oyo,New,Website,Cash,No,4
+ORD10861,2026-09-12 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0,13500,6500,7000,Lagos,Returning,Instagram,Cash,Yes,4.5
+ORD10089,2026-09-12 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,2,0.05,36100,20000,16100,Lagos,New,Physical Store,Transfer,No,4
+ORD10902,2026-09-13 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0.05,19950,11000,8950,Abuja,Returning,Physical Store,Cash,No,4.5
+ORD10605,2026-09-13 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0,16500,8500,8000,Lagos,New,Physical Store,Transfer,No,5
+ORD10178,2026-09-13 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0,22000,12000,10000,Lagos,New,Instagram,Transfer,No,4.5
+ORD10010,2026-09-14 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,3,0,49500,25500,24000,Kano,New,Instagram,Transfer,No,4.5
+ORD11178,2026-09-14 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,3,0.1,40500,22500,18000,Lagos,New,Jumia,Transfer,No,5
+ORD10939,2026-09-14 00:00:00,Royal Musk,Musk,Men,50,9000,18000,3,0,54000,27000,27000,Abuja,Returning,Website,Card,No,5
+ORD10834,2026-09-14 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,3,0,60000,31500,28500,Lagos,New,WhatsApp,Transfer,No,4
+ORD10974,2026-09-14 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0.1,18000,10500,7500,Kaduna,Returning,Instagram,Cash,No,3.5
+ORD10771,2026-09-14 00:00:00,Leather Noir,Woody,Men,50,11500,23000,2,0.1,41400,23000,18400,Lagos,Returning,Website,Card,No,4
+ORD10730,2026-09-14 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0.1,19800,12000,7800,Edo,Returning,Instagram,Transfer,No,3.5
+ORD10680,2026-09-14 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0,19000,10000,9000,Ogun,New,WhatsApp,Cash,No,3.5
+ORD10238,2026-09-15 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0.05,31350,17000,14350,Lagos,New,WhatsApp,Card,No,5
+ORD10768,2026-09-15 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,2,0.05,36100,20000,16100,Kaduna,New,Jumia,Card,No,4.5
+ORD10757,2026-09-15 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0,20000,10500,9500,Kaduna,New,Physical Store,USSD,No,4
+ORD10118,2026-09-15 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0,20000,10500,9500,Enugu,New,Instagram,Transfer,No,4
+ORD11073,2026-09-15 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0.1,18900,11000,7900,Edo,New,Jumia,Cash,No,5
+ORD10160,2026-09-15 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0,16500,8500,8000,Lagos,Returning,Website,Card,No,4.5
+ORD11112,2026-09-16 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0,42000,22000,20000,Oyo,New,Website,USSD,No,4.5
+ORD10944,2026-09-16 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0.05,12825,6500,6325,Oyo,New,Instagram,Transfer,No,4
+ORD10515,2026-09-16 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,4,0.05,51300,26000,25300,Enugu,New,Website,Transfer,No,4
+ORD10863,2026-09-17 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,2,0.05,38000,21000,17000,Oyo,Returning,Instagram,USSD,No,3
+ORD11017,2026-09-17 00:00:00,Royal Musk,Musk,Men,50,9000,18000,5,0,90000,45000,45000,Rivers,Returning,Website,Transfer,No,4.5
+ORD10658,2026-09-17 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,2,0.05,28500,15000,13500,Abuja,Returning,Website,Transfer,No,4.5
+ORD10881,2026-09-18 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0.05,12825,6500,6325,Lagos,Returning,WhatsApp,Transfer,No,4
+ORD11089,2026-09-18 00:00:00,Leather Noir,Woody,Men,50,11500,23000,2,0.05,43700,23000,20700,Abuja,New,Physical Store,Transfer,No,3.5
+ORD10990,2026-09-19 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0,44000,24000,20000,Kaduna,Returning,Instagram,Card,No,5
+ORD10168,2026-09-19 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0,16500,8500,8000,Delta,New,Jumia,USSD,No,4.5
+ORD10621,2026-09-19 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0,16500,8500,8000,Lagos,New,Instagram,Transfer,Yes,3
+ORD10174,2026-09-20 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0,14000,7000,7000,Kano,New,Website,USSD,No,5
+ORD10810,2026-09-20 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0.1,18900,11000,7900,Abuja,New,Website,Card,No,3
+ORD10626,2026-09-20 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,5,0,105000,55000,50000,Rivers,New,Instagram,Cash,No,4
+ORD10155,2026-09-20 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0,44000,24000,20000,Rivers,New,Website,Cash,Yes,5
+ORD10156,2026-09-20 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0,44000,24000,20000,Kaduna,New,Website,Transfer,Yes,4.5
+ORD10776,2026-09-21 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0,19000,10000,9000,Lagos,Returning,WhatsApp,Transfer,No,4.5
+ORD10028,2026-09-21 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,4,0.05,57000,30000,27000,Kano,Returning,Jumia,Transfer,No,5
+ORD10316,2026-09-21 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0.05,19000,10500,8500,Lagos,New,Jumia,Card,No,5
+ORD10146,2026-09-21 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,4,0.05,72200,40000,32200,Lagos,New,Jumia,Transfer,No,4
+ORD10802,2026-09-21 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0.1,17100,10000,7100,Enugu,Returning,Instagram,Transfer,No,4.5
+ORD11026,2026-09-21 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0,18000,9000,9000,Lagos,New,Physical Store,Cash,No,5
+ORD10216,2026-09-22 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,3,0,66000,36000,30000,Kaduna,New,Physical Store,Transfer,No,5
+ORD11111,2026-09-22 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,4,0.15,71400,44000,27400,Kano,New,Instagram,Transfer,No,5
+ORD10072,2026-09-22 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,2,0,38000,20000,18000,Oyo,New,WhatsApp,Transfer,No,3
+ORD10088,2026-09-23 00:00:00,Sandal Essence,Woody,Unisex,50,10500,20000,1,0,20000,10500,9500,Lagos,Returning,WhatsApp,Transfer,No,5
+ORD10173,2026-09-23 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,2,0.05,36100,20000,16100,Lagos,New,Physical Store,Card,No,3.5
+ORD10811,2026-09-23 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0.05,39900,22000,17900,Abuja,New,WhatsApp,Transfer,No,4
+ORD10681,2026-09-23 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,4,0.1,54000,30000,24000,Abuja,New,WhatsApp,Card,No,4.5
+ORD11005,2026-09-24 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,3,0.05,62700,36000,26700,Rivers,New,Website,Card,No,4.5
+ORD10916,2026-09-24 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0.1,18900,11000,7900,Abuja,Returning,Physical Store,USSD,Yes,5
+ORD10113,2026-09-24 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0,33000,17000,16000,Enugu,New,Instagram,USSD,No,5
+ORD10129,2026-09-24 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0.05,15675,8500,7175,Ogun,New,Instagram,USSD,No,5
+ORD10423,2026-09-24 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0,16500,8500,8000,Rivers,Returning,Instagram,Card,No,4.5
+ORD10822,2026-09-25 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,1,0,15000,7500,7500,Lagos,New,Jumia,Card,No,4
+ORD10977,2026-09-25 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0.05,18050,10000,8050,Lagos,Returning,WhatsApp,Cash,No,3.5
+ORD11033,2026-09-25 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0,44000,24000,20000,Abuja,Returning,Physical Store,Card,No,3
+ORD10037,2026-09-25 00:00:00,Royal Musk,Musk,Men,50,9000,18000,2,0,36000,18000,18000,Abuja,Returning,Jumia,Transfer,No,5
+ORD10905,2026-09-26 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,2,0,27000,13000,14000,Lagos,Returning,Website,Card,No,3.5
+ORD11077,2026-09-26 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0,21000,11000,10000,Kaduna,New,Instagram,Transfer,No,4
+ORD10765,2026-09-26 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0.05,12825,6500,6325,Enugu,New,Instagram,Cash,No,5
+ORD10956,2026-09-26 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,1,0.05,18050,10000,8050,Rivers,Returning,Website,Transfer,No,4
+ORD10594,2026-09-26 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,3,0,63000,33000,30000,Delta,Returning,Instagram,Transfer,No,4
+ORD10499,2026-09-26 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,2,0.1,37800,22000,15800,Rivers,Returning,Website,Card,No,5
+ORD10006,2026-09-27 00:00:00,Velvet Rose,Floral,Women,50,10000,19000,4,0.05,72200,40000,32200,Kano,New,Website,Card,No,5
+ORD10961,2026-09-28 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0,18000,9000,9000,Abuja,New,Instagram,Transfer,No,4.5
+ORD11041,2026-09-28 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,2,0,33000,17000,16000,Lagos,Returning,Website,Transfer,No,4.5
+ORD10157,2026-09-28 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,2,0.05,41800,24000,17800,Rivers,New,Physical Store,USSD,No,5
+ORD10903,2026-09-29 00:00:00,Vanilla Mist,Vanilla,Women,30,6500,13500,1,0.05,12825,6500,6325,Lagos,Returning,Physical Store,Transfer,No,4.5
+ORD10065,2026-09-30 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,1,0.05,19950,11000,8950,Lagos,New,Instagram,USSD,No,4.5
+ORD10313,2026-09-30 00:00:00,Jasmine Luxe,Floral,Women,30,7500,15000,3,0.05,42750,22500,20250,Oyo,Returning,Physical Store,Transfer,No,5
+ORD10469,2026-09-30 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,3,0.05,62700,36000,26700,Abuja,New,Website,Transfer,No,4
+ORD10473,2026-09-30 00:00:00,Amber Night,Amber,Unisex,50,11000,21000,3,0.1,56700,33000,23700,Lagos,New,Jumia,Card,No,4.5
+ORD11003,2026-09-30 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0.05,13300,7000,6300,Enugu,Returning,Jumia,Transfer,Yes,4.5
+ORD10920,2026-09-30 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,2,0,28000,14000,14000,Edo,Returning,Physical Store,Transfer,No,4
+ORD10921,2026-09-30 00:00:00,Citrus Bloom,Citrus,Unisex,30,7000,14000,1,0,14000,7000,7000,Lagos,New,Instagram,Cash,No,3
+ORD10417,2026-09-30 00:00:00,Royal Musk,Musk,Men,50,9000,18000,1,0,18000,9000,9000,Oyo,New,Instagram,Cash,No,3
+ORD10611,2026-09-30 00:00:00,Ocean Breeze,Fresh,Men,50,8500,16500,1,0,16500,8500,8000,Lagos,New,WhatsApp,Cash,Yes,4
+ORD10282,2026-09-30 00:00:00,Oud Royale,Oud,Unisex,50,12000,22000,1,0.1,19800,12000,7800,Edo,New,Jumia,Cash,No,4
