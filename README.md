@@ -48,6 +48,17 @@ Explores perfume profitability, revenue by fragrance type, quantity sold and cus
 ### 3. Customer & Sales Analysis
 Examines customer types, payment methods, customer ratings and revenue by gender.
 
+
+## Dashboard Screenshots
+
+### Sales Overview
+![Sales Overview Analysis](images/Sales%20Overview%20Analysis.png)
+
+### Product Performance
+![Product Performance Analysis](images/Product%20Performance%20Analysis.png)
+
+### Customer and Sales Analysis
+![Customer and Sales Analysis](images/Customer%20and%20Sales%20Analysis.png)
 ## Project Structure
 
 ```text
