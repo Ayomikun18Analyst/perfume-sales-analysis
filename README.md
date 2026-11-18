@@ -99,5 +99,12 @@ This project demonstrates the practical application of multiple data analysis to
 It showcases my developing skills in data analytics, problem-solving and communicating business insights through data.
 
 ## Author
+## Author
+
+**Ayomikun**
+
+Aspiring Data Analyst
+
+GitHub: [@Ayomikun18Analyst](https://github.com/Ayomikun18Analyst)
 
 **Data Analytics Portfolio Project**
